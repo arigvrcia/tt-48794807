@@ -6,10 +6,658 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Child rearing involves a high degree of physical and emotional interaction between mother and child; fathers are less involved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194828Z" creationid="400" creationdate="20220525T194828Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La crianza de los hijos implica un alto grado de interacción física y emocional entre la madre y el hijo; los padres participan menos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Half of high school graduates receive an advanced education.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194926Z" creationid="400" creationdate="20220525T194926Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La mitad de los estudiantes graduados reciven una educación avanzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Infants and young children are doted on, and child rearing is a considered a very important responsibility for women in their twenties and thirties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194647Z" creationid="400" creationdate="20220525T194613Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Los bebés y los niños pequeños son adorados, y la crianza de los hijos se considera una responsabilidad muy importante para las mujeres de entre 20 y 30 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Shintō is the contemporary term for a system of gods and beliefs about the relationship between people, the natural environment, and the state.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195016Z" creationid="400" creationdate="20220525T195016Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Shintō es el término contemporáneo que designa un sistema de dioses y creencias sobre la relación entre las personas, el entorno natural y el Estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s0&gt; It consists of two major branches, known as Teravada and Mahayana Buddhism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195105Z" creationid="400" creationdate="20220525T195105Z">
+        <seg>&lt;/s0&gt; Consta de dos ramas principales, conocidas como Budismo Teravada y Mahayana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Child Rearing and Education.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194723Z" creationid="400" creationdate="20220525T194723Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Crianza y educación de los hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Higher Education.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194900Z" creationid="400" creationdate="20220525T194900Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Educación Superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Infant Care.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194554Z" creationid="400" creationdate="20220525T194554Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Cuidado de niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Religious Beliefs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195000Z" creationid="400" creationdate="20220525T195000Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Creencias Religiosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Symbols of Social Stratification.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194445Z" creationid="ainhoa" creationdate="20220525T194445Z">
         <seg>&lt;b0&gt; &lt;i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A college degree is a prerequisite for most middle-class occupations, and many companies formally restrict their recruiting to graduates of specific universities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Un título universitario es un requisito previo para la mayoría de las ocupaciones de clase media, y muchas empresas restringen formalmente su contratación a los graduados de determinadas universidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A related problem is the reintegration of students who have studied overseas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Un problema relacionado es la reintegración de los alumnos que han estudiado en el extranjero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After World War II, many new religious sects were founded and existing sects expanded enormously.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Después de la Segunda Guerra Mundial, se fundaron muchas sectas religiosas nuevas y las existentes se expandieron enormemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other children were expected to leave the natal household and become members of another family system through marriage or adoption.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Todos los demás hijos debían abandonar el hogar natal y convertirse en miembros de otro sistema familiar mediante el matrimonio o la adopción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the cultural legacies of neo-Confucianism are still evident in social patterns of hierarchy and deference, neo-Confucianism did not survive beyond the nineteenth century in Japan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Aunque los legados culturales del neoconfucianismo siguen siendo evidentes en los patrones sociales de jerarquía y deferencia, el neoconfucianismo no sobrevivió más allá del siglo XIX en Japón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although, only about 1 per cent of Japanese today consider themselves Christian, a number of intellectuals and political figures in the late nineteenth and twentieth centuries adopted Christianity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Aunque, en la actualidad, sólo un 1% de los japoneses se consideran cristianos, varios intelectuales y figuras políticas de finales del siglo XIX y del XX adoptaron el cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At better schools, these exams can be extremely competitive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En las mejores escuelas, estos exámenes pueden ser extremadamente competitivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buddhism was introduced into Japan from Korea and China during the sixth century &lt;s0&gt; A.D.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195051Z" creationid="400" creationdate="20220525T195051Z">
+        <seg>El budismo fue introducido en Japón desde Corea y China durante el siglo VI &lt;s0&gt; de nuestra era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buddhist and Shintō beliefs are central for most "New Religions," but many sects also incorporate eclectic elements from religions around the world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Las creencias budistas y del Shintō son centrales para la mayoría de las "Nuevas Religiones", pero muchas sectas también incorporan elementos eclécticos de religiones de todo el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullying among students is a common problem.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El acoso entre estudiantes es un problema común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By the early seventeenth century, there were an estimated three hundred thousand Catholics.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>A principios del siglo XVII, se calcula que había unos trescientos mil católicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Childhood socialization is guided by the widespread belief that a child is a passive and malleable being; innate talent or ability is less important than is its being properly shaped, particularly by maternal influences.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La socialización de la infancia está guiada por la creencia generalizada de que el niño es un ser pasivo y maleable; el talento o la capacidad innata es menos importante que el hecho de que se le moldee adecuadamente, sobre todo por influencias maternas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Community celebrations generally echo Shintō observances of the agricultural cycle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Las celebraciones de la comunidad generalmente se hacen eco de las observancias del ciclo agrícola del Shintō.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compulsory education begins at about age six with elementary school, which lasts for six years, followed by three years of middle school.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La educación obligatoria comienza alrededor de los seis años con la escuela primaria, que dura seis años, seguida de tres años de escuela media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confucianism established ideal relations between ruler and subject, husband and wife, father and child, older brother and younger brother, and friend and friend.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El confucianismo establecía relaciones ideales entre gobernante y súbdito, marido y mujer, padre e hijo, hermano mayor y hermano menor, y amigo y amigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confucianism, Taoism, and shamanism have also influenced Japanese religion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El confucianismo, el taoísmo y el chamanismo también han influido en la religión japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Differentiation of students by academic ability does not take place until the end of elementary school, and the emphasis in primary education is on social integration, self-discipline, and the fundamental skills of reading, writing, and arithmetic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La diferenciación de los alumnos por su capacidad académica no se produce hasta el final de la escuela primaria, y el énfasis en la educación primaria se pone en la integración social, la autodisciplina y las habilidades fundamentales de lectura, escritura y aritmética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During much of Japanese history, Shintō and Buddhism have coexisted and influenced each other.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Durante gran parte de la historia de Japón, el Shintō y el budismo han coexistido y se han influido mutuamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entrance examinations are generally are required for admission to all levels of private schools and for public schools beyond elementary school.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Por lo general, se exigen exámenes de ingreso para la admisión en todos los niveles de las escuelas privadas y en las escuelas públicas más allá de la escuela primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Etiquette</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194932Z" creationid="400" creationdate="20220525T194932Z">
+        <seg>Etiqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Etiquette can be a full-time occupation, especially in the context of traditional artistic pursuits, such as the tea ceremony, where its principles are incorporated as elements of performance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194944Z" creationid="400" creationdate="20220525T194944Z">
+        <seg>La etiqueta puede ser una ocupación a tiempo completo, especialmente en el contexto de las actividades artísticas tradicionales, como la ceremonia del té, donde sus principios se incorporan como elementos de actuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Etiquette hinges on principles of proportional reciprocity in social hierarchies based on determinations of relative status between superior and subordinate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La etiqueta se basa en principios de reciprocidad proporcional en jerarquías sociales basadas en la determinación del estatus relativo entre superiores y subordinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even in more prosaic circumstances, many points of etiquette are elaborately codified, including an extensive vocabulary and grammar for polite conversation; specific principles for the selection, presentation, and reciprocation of gifts; and standards for bowing and exchanging name cards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Incluso en circunstancias más prosaicas, muchos aspectos de la etiqueta están codificados de forma elaborada, incluyendo un extenso vocabulario y una gramática para la conversación educada; principios específicos para la selección, presentación y reciprocidad de los regalos; y normas para las reverencias y el intercambio de tarjetas con el nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For many students, college is seen as an opportunity to take a break from years of preparation for examinations, and college life often is regarded as a relaxing interlude before one starts a career.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Para muchos estudiantes, la universidad se ve como una oportunidad para descansar de años de preparación para los exámenes, y la vida universitaria se considera a menudo como un interludio relajante antes de empezar una carrera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frances Xavier visited the country in 1549 to initiate Catholic missionizing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Francisco Javier visitó el país en 1549 para iniciar las misiones católicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>High schools are evaluated in terms of their success in placing their graduates prestigious universities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Los institutos se evalúan en función de su éxito a la hora de colocar a sus graduados en universidades de prestigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, communities of "hidden Christians" maintained their faith in isolation and secrecy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Sin embargo, las comunidades de "cristianos ocultos" mantuvieron su fe en aislamiento y secreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1870, the ban on Christianity was lifted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En 1870 se levantó la prohibición del cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In essence, Teravada (a Sanskrit term meaning "the lesser or smaller vessel") teaches that salvation is available only to an elect few, those who strive to achieve enlightenment and practice good works that will enhance one's ability to transcend the snares of mortal existence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En esencia, el teravada (término sánscrito que significa "el recipiente menor o más pequeño") enseña que la salvación sólo está disponible para unos pocos elegidos, aquellos que se esfuerzan por alcanzar la iluminación y practican buenas obras que aumentarán su capacidad para trascender las trampas de la existencia mortal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In modern urban nuclear families, close psychological ties between mothers and children are extremely common.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En las familias nucleares urbanas modernas, los estrechos lazos psicológicos entre madres e hijos son muy comunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most regions, this involved inheritance and succession by the oldest son.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En la mayoría de las regiones, la herencia y la sucesión correspondían al hijo mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In preparation for college entrance examinations, sometimes for high school, and occasionally even at lower levels, a student may leave school to devote an entire year to studying at an examination academy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Como preparación para los exámenes de acceso a la universidad, a veces para la escuela secundaria, y ocasionalmente incluso en los niveles inferiores, un estudiante puede dejar la escuela para dedicar todo un año a estudiar en una academia de exámenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In terms of social participation, the household was considered as a single unit rather than the sum of its members.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En cuanto a la participación social, el hogar se consideraba una unidad única y no la suma de sus miembros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Infants often are taken to Shintō shrines thirty days after their birth, and the holiday Shichigosan in November is an occasion for children to be honored at shrines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Los bebés suelen ser llevados a los santuarios Shintō treinta días después de su nacimiento, y la fiesta Shichigosan en noviembre es una ocasión para que los niños sean honrados en los santuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inheritance of a family's estate and succession to a family's occupation, social position, and obligations devolved to a single child.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La herencia del patrimonio familiar y la sucesión de la ocupación, la posición social y las obligaciones de la familia recaían en un solo hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese did not become a written language until the sixth century, when Chinese orthography was introduced.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195245Z" creationid="400" creationdate="20220525T195245Z">
+        <seg>El japonés no se convirtió en una lengua escrita hasta el siglo VI, cuando se introdujo la ortografía china.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Liberal American Protestantism influenced progressive reformers and established many private universities; Catholic universities and hospitals are equally prominent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El protestantismo liberal estadounidense influyó en los reformistas progresistas y estableció muchas universidades privadas; las universidades y los hospitales católicos son igualmente destacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local festivals vary, but most center on the celebration of the tutelary deity of a specific village, town, or neighborhood.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Las fiestas locales varían, pero la mayoría se centran en la celebración de la deidad tutelar de un pueblo, ciudad o barrio específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mahayana (a Sanskrit term meaning "the greater (larger) vessel") teaches that the grace and mercy of the Buddha and the bodhisattvas (saints) lead them to intercede on behalf of the masses of humanities, and that through proper devotion anyone can hope for salvation while, during their lives on earth, remaining a part of the mundane world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El mahayana (término sánscrito que significa "el recipiente más grande") enseña que la gracia y la misericordia de Buda y de los bodhisattvas (santos) les lleva a interceder por las masas humanas, y que mediante la devoción adecuada cualquiera puede esperar la salvación mientras, durante su vida en la tierra, sigue formando parte del mundo mundano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mandatory education ends with middle school, but most students go on to high school.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La educación obligatoria termina con la escuela media, pero la mayoría de los estudiantes pasan a la escuela secundaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many people find the intricacies of etiquette daunting, and books that offer advice on these situations are steady sellers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Para muchas personas, los entresijos de la etiqueta resultan desalentadores, y los libros que ofrecen consejos sobre estas situaciones son un éxito de ventas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many women give birth to their first child after little more than a year of marriage, and married couples without children are uncommon.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Muchas mujeres dan a luz a su primer hijo después de poco más de un año de matrimonio, y son poco comunes las parejas casadas sin hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O-Bon in mid-August marks the season when the spirits of the deceased return to their homes, and many people go to their hometowns to clean graves and celebrate memories of the departed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>O-Bon, a mediados de agosto, marca la temporada en la que los espíritus de los difuntos regresan a sus hogares, y muchas personas van a sus pueblos natales para limpiar las tumbas y celebrar los recuerdos de los difuntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Particularly close bonds between oldest sons and their mothers were not uncommon.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>No era raro que los hijos mayores mantuvieran vínculos especialmente estrechos con sus madres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Religion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194950Z" creationid="400" creationdate="20220525T194950Z">
+        <seg>Religión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Responsibility for curriculum standards and textbook approval lies with the Ministry of Education, which must approve public and private educational institutions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La responsabilidad de las normas curriculares y la aprobación de los libros de texto recae en el Ministerio de Educación, que debe aprobar los centros educativos públicos y privados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shamanism involves mystical and ecstatic contact through mediums between the supernatural and the human world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El chamanismo implica el contacto místico y extático a través de medios entre el mundo sobrenatural y el humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shintō includes beliefs about unlucky ages, and many shrines offer purification rituals to ward off ill fortune for people passing through those dangerous years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El Shintō incluye creencias sobre las edades de mala suerte, y muchos santuarios ofrecen rituales de purificación para alejar la mala fortuna de las personas que pasan por esos años peligrosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shintō is closely linked to the imperial family and a nationalist ideology.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El Shintō está estrechamente vinculado a la familia imperial y a una ideología nacionalista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shintō teaches that Japan is uniquely the land of the gods.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El Shintō enseña que Japón es exclusivamente la tierra de los dioses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the sixteenth century, religious life has been influenced by Christianity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Desde el siglo XVI, la vida religiosa está influenciada por el cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Socialization</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T194538Z" creationid="400" creationdate="20220525T194538Z">
+        <seg>Socialización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Taoism is a Chinese philosophical tradition that emphasizes the spiritual and mystical connection between human beings and nature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El taoísmo es una tradición filosófica china que hace hincapié en la conexión espiritual y mística entre los seres humanos y la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Teravada Buddhism, in general, is the branch practiced in South Asia, Central Asia, and Southeast Asia, and Mahayana is the branch that influenced Chinese, Korean, and Japanese civilizations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El budismo teravada, en general, es la rama que se practica en el sur de Asia, Asia central y el sudeste asiático, y el mahayana es la rama que influyó en las civilizaciones china, coreana y japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Sōka Gakkai, an offshoot of Buddhism, has several million adherents and in the 1960s formed a conservative national political party.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La Sōka Gakkai, una rama del budismo, tiene varios millones de adeptos y en la década de 1960 formó un partido político nacional conservador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Teravada tradition emphasizes monastic communities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La tradición teravada hace hincapié en las comunidades monásticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Tokugawa regime expelled the Catholic clergy in 1614 and tried to eliminate the Catholic community.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El régimen Tokugawa expulsó al clero católico en 1614 e intentó eliminar la comunidad católica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The examination system is a source of anxiety for children and their families (pushy mothers are dubbed "education mamas").</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El sistema de exámenes es una fuente de ansiedad para los niños y sus familias (las madres insistentes son apodadas "madres educadoras").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The light of dawn falls on a sign at the Tsukiji Fish Market during a tuna auction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220525T195231Z" creationid="400" creationdate="20220525T195231Z">
+        <seg>La luz del amanecer cae sobre un cartel en el mercado de pescado de Tsukiji durante una subasta de atún.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The one major branch of Japanese Buddhism that does not have close connections to Chinese Buddhist traditions are the various sects of the Nichiren tradition which developed an intensely nationalistic ideology and a militant orientation to proselytizing that is uncharacteristic of other Japanese Buddhist sects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La única rama importante del budismo japonés que no tiene conexiones estrechas con las tradiciones budistas chinas son las diversas sectas de la tradición Nichiren, que desarrollaron una ideología intensamente nacionalista y una orientación militante hacia el proselitismo que no es característica de otras sectas budistas japonesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The religion has no formal dogma or scripture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>La religión no tiene un dogma formal ni escrituras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sects of Buddhism popular in Japan have emphasized the accessibility of salvation and enlightenment of ordinary people.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Las sectas del budismo populares en Japón han hecho hincapié en la accesibilidad de la salvación y la iluminación de la gente corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The traditional family system was organized around a multigenerational household with a single central authority: the male household head.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El sistema familiar tradicional se organizaba en torno a un hogar multigeneracional con una única autoridad central: el hombre cabeza de familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are 165 public and 460 private universities and four-year colleges and almost 600 two-year colleges.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Hay 165 universidades públicas y 460 privadas y colegios de cuatro años, y casi 600 colegios de dos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two levels of pre-school: nursery school from about three years of age and kindergarten from about five years of age.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Hay dos niveles de preescolar: la escuela infantil a partir de los tres años y el jardín de infancia a partir de los cinco años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These attitudes carry over into the early years of education.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Estas actitudes se trasladan a los primeros años de la educación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These include: esoteric Buddhism (e.g., the Shingon and Tendai sects) that teach mystical practices as a means of apprehending the sacred; the so–called " Pure Land Sects" that teach that prayer and devotion to Buddhist saints offer a means for salvation, through divine intercession; and Zen, which teaches that enlightenment can be obtained through meditation in which one attains an intuitive spiritual revelation or catharsis through intensive, introspective contemplation, negating the intellect (and the attachments, desires, and obsessions that human thought embodies) precisely through the effort to think through insoluble puzzles of life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Entre ellas se encuentran: el budismo esotérico (por ejemplo las sectas Shingon y Tendai) que enseñan prácticas místicas como medio para aprehender lo sagrado; las llamadas "sectas de la Tierra Pura" que enseñan que la oración y la devoción a los santos budistas ofrecen un medio de salvación, a través de la intercesión divina; y el Zen, que enseña que la iluminación puede obtenerse a través de la meditación, en la que se alcanza una revelación espiritual intuitiva o una catarsis a través de la contemplación intensiva e introspectiva, negando el intelecto (y los apegos, deseos y obsesiones que encarna el pensamiento humano) precisamente a través del esfuerzo por pensar en los rompecabezas insolubles de la vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These relative statuses may reflect an individual's age, gender, or social role or may reflect relationships among different social institutions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Estos estatus relativos pueden reflejar la edad, el género o el papel social de un individuo o pueden reflejar las relaciones entre diferentes instituciones sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates enormous pressure to enter top-ranked schools.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Esto crea una enorme presión para entrar en las escuelas mejor clasificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Today local festivals are often expressions of community sentiment rather than religious events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>En la actualidad, las fiestas locales suelen ser expresiones de sentimientos comunitarios más que eventos religiosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Today there are hundreds of religious sects, a dozen of which are prominent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Hoy en día hay cientos de sectas religiosas, de las cuales una docena son prominentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditionally, sons were favored over daughters, and the oldest son was raised quite differently from the other sons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>Tradicionalmente, se favorecía a los hijos varones en detrimento de las hijas, y el hijo mayor era educado de forma muy diferente a los demás hijos.</seg>
       </tuv>
     </tu>
     <tu>
