@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Symbols of Social Stratification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194445Z" creationid="ainhoa" creationdate="20220525T194445Z">
+        <seg>&lt;b0&gt; &lt;i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>eng</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194230Z" creationid="ainhoa" creationdate="20220525T194230Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
