@@ -1,0 +1,14 @@
+25.05.22 10:31
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	     1628	   15081	                    87238	                   100478	        1	
+Pendientes:       	     1492	   12577	                    72485	                    83340	        1	
+Únicos:           	     1247	   13624	                    76757	                    89165	        1	
+Pendientes únicos:	     1115	   11169	                    62270	                    72338	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                                                                                  	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Culture of Japan - history, people, traditions, women, beliefs, food, family, social, marriage.html	              1628	                1492	            1247	                       1115	         15081	              12577	          13624	                     11169	                          87238	                               72485	                           76757	                                      62270	                         100478	                               83340	                           89165	                                      72338	
