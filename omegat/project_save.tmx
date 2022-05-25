@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Throughout the Meiji period, the national government attempted to create institutions that would unify the Japanese people as citizens of a new nation-state and erase local identities and regional loyalties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T220010Z" creationid="ariadnagarcia" creationdate="20220525T220010Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; A lo largo del período Meiji, el gobierno nacional intentó crear instituciones que unificaran al pueblo japonés como ciudadanos de un nuevo estado-nación y borraran las identidades locales y las lealtades regionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s0&gt; It consists of two major branches, known as Teravada and Mahayana Buddhism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T195105Z" creationid="400" creationdate="20220525T195105Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T200340Z" creationid="ainhoa" creationdate="20220525T200340Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Actividad militar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; National Identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T215925Z" creationid="ariadnagarcia" creationdate="20220525T215925Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Identidad nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2420,8 +2436,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>The establishment of a national educational system and a national conscript army, the growth of an efficient transportation system, and the development of mass media significantly hastened the homogenization of regional differences, as did industrialization, urban development, and economic and social change.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>El establecimiento de un sistema educativo nacional y un ejército nacional de reclutas, el crecimiento de un sistema de transporte eficiente y el desarrollo de los medios de comunicación aceleraron significativamente la homogeneización de las diferencias regionales, al igual que la industrialización, el desarrollo urbano y el cambio económico y social.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T220137Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El establecimiento de un sistema educativo y un ejército nacionales, el crecimiento de un sistema de transporte eficiente y el desarrollo de los medios de comunicación aceleraron significativamente la homogeneización de las diferencias regionales, al igual que la industrialización, el desarrollo urbano y el cambio económico y social.</seg>
       </tuv>
     </tu>
     <tu>
