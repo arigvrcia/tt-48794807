@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The kinship system before World War II was based on upper-class family patterns established during the late Tokugawa period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T202355Z" creationid="ainhoa" creationdate="20220525T202355Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; El sistema de parentesco anterior a la Segunda Guerra Mundial se basaba en los patrones familiares de la clase alta establecidos a finales del periodo Tokugawa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; The official and predominant language is Japanese (Nihongo).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200640Z" creationid="ariadnagarcia" creationdate="20220525T200640Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201947Z" creationid="ainhoa" creationdate="20220525T201947Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Herencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Kin Groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T202237Z" creationid="ainhoa" creationdate="20220525T202237Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Grupos de parentesco.</seg>
       </tuv>
     </tu>
     <tu>
