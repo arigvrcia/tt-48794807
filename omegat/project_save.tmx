@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; One of the most important determinants of social stratification is educational attainment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T195852Z" creationid="ainhoa" creationdate="20220525T195713Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt;Uno de los factores más importantes de la estratificación social es el nivel educativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; Shintō is the contemporary term for a system of gods and beliefs about the relationship between people, the natural environment, and the state.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T195016Z" creationid="400" creationdate="20220525T195016Z">
@@ -144,8 +152,8 @@
       <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Symbols of Social Stratification.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194445Z" creationid="ainhoa" creationdate="20220525T194445Z">
-        <seg>&lt;b0&gt; &lt;i1&gt;.</seg>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T195330Z" creationid="ainhoa" creationdate="20220525T194445Z">
+        <seg>&lt;b0&gt; Símbolos de la estratificación social. &lt;i1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Un título universitario es un requisito previo para la mayoría de las ocupaciones de clase media, y muchas empresas restringen formalmente su contratación a los graduados de determinadas universidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A male household head represented the family to the outside world and controlled its public affairs; within the home, his wife might exercise great control in managing the day-to-day life of the family.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Un hombre cabeza de familia representaba a la familia ante el mundo exterior y controlaba sus asuntos públicos; dentro del hogar, su mujer podía ejercer un gran control en la gestión de la vida cotidiana de la familia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Según el censo de 1995, 81 millones de personas (el 65%) viven en zonas urbanas, que constituyen sólo el 3% de la superficie terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Administratively, the country is divided into forty-seven prefectures that vary in terms of their political structures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Administrativamente, el país está dividido en cuarenta y siete prefecturas que varían en cuanto a sus estructuras políticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +286,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the local level, each prefecture has an elected governor and an elected assembly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A nivel local, cada prefectura tiene un gobernador elegido y una asamblea elegida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the national level, government ministries wield enormous power.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En el ámbito nacional, los ministerios del gobierno ejercen un enorme poder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background checks on a prospective spouse and his or her family are routine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La comprobación de los antecedentes del futuro cónyuge y de su familia es rutinaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because of the intensity of pacifism in contemporary society, opposition to the military runs very strong, and the article in the constitution that prohibits military involvement is of great symbolic importance.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -318,10 +366,35 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Care for the elderly was traditionally a family responsibility, but it has become an enormous public issue because of Japan's rapidly aging population and the decline in multi-generational households.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Programas de bienestar social y cambio
+Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la seguridad pública y la salud pública, que han sido prioridades del gobierno desde el siglo XIX. Sin embargo, muchos aspectos del bienestar social siguen siendo responsabilidad de las familias, las comunidades y otros grupos sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in family structure since the end of World War II have eroded the patriarchal domination of households.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los cambios en la estructura familiar desde el final de la Segunda Guerra Mundial han erosionado el dominio patriarcal de los hogares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Childhood socialization is guided by the widespread belief that a child is a passive and malleable being; innate talent or ability is less important than is its being properly shaped, particularly by maternal influences.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>La socialización de la infancia está guiada por la creencia generalizada de que el niño es un ser pasivo y maleable; el talento o la capacidad innata es menos importante que el hecho de que se le moldee adecuadamente, sobre todo por influencias maternas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cities, towns, and villages have elected chief executives and assemblies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las ciudades, pueblos y aldeas tienen jefes de gobierno y asambleas elegidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +487,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During the 1960s and 1970s, citizen movements that confronted the government became common, particularly in response to environmental issues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A lo largo del siglo XX, el gobierno ha dirigido o supervisado las actividades de muchos grupos y organizaciones sociales nominalmente independientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the last 150 years of industrialization and economic development, the population has grown from around thirty million to its present size.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195513Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Durante los últimos 150 años de industrialización y desarrollo económico, la población ha pasado de unos treinta millones al número actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Education, police, and fire protection are organized around municipal units but are controlled or standardized at the national level.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La educación, la policía y la protección contra incendios se organizan en torno a unidades municipales, pero se controlan o normalizan a nivel nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +567,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, women are still excluded from sumō wrestling rings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Por ejemplo, las mujeres siguen estando excluidas de los rings de lucha de sumō.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For many students, college is seen as an opportunity to take a break from years of preparation for examinations, and college life often is regarded as a relaxing interlude before one starts a career.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -518,6 +615,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, Japan maintains a "self-defense force" with substantial personnel and weaponry, supported by a growing budget.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Programas de bienestar social y cambio
+Existe un espíritu de apoyo a la educación, la seguridad pública y la salud pública, que han sido prioridades del gobierno desde el siglo XIX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, communities of "hidden Christians" maintained their faith in isolation and secrecy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -526,10 +632,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, many aspects of social welfare continue to be the responsibility of families, communities, and other social groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El cuidado de los ancianos era tradicionalmente una responsabilidad familiar, pero se ha convertido en un enorme problema público debido al rápido envejecimiento de la población japonesa y al descenso de los hogares multigeneracionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the practical impact of legal changes on women's status has been gradual.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Sin embargo, el impacto práctico de los cambios legales en la condición de la mujer ha sido gradual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In 1870, the ban on Christianity was lifted.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>En 1870 se levantó la prohibición del cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1947, a new constitution was drafted by advisers to the Allied occupation forces and adopted by the parliament.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En 1947, los asesores de las fuerzas de ocupación aliadas redactaron una nueva constitución que fue aprobada por el parlamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1993, the LDP split apart, and many of its factions have become independent political parties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En 1993, el PLD se dividió y muchas de sus facciones se han convertido en partidos políticos independientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +684,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>En esencia, el teravada (término sánscrito que significa "el recipiente menor o más pequeño") enseña que la salvación sólo está disponible para unos pocos elegidos, aquellos que se esfuerzan por alcanzar la iluminación y practican buenas obras que aumentarán su capacidad para trascender las trampas de la existencia mortal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many areas, ministries set policy and politicians ratify the opinions of the bureaucrats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En muchos ámbitos, los ministerios establecen la política y los políticos ratifican las opiniones de los burócratas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +728,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the case of an extremely prosperous family, they might be able to establish other children in newly independent family lines, which would remain forever subservient to the original line.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En el caso de una familia extremadamente próspera, podían establecerse otros hijos en nuevas líneas familiares independientes, que permanecerían siempre supeditadas a la línea original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the late nineteenth century, the Meiji government put in place legal norms and standards that defined an ideal family structure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A finales del siglo XIX, el gobierno Meiji puso en marcha normas legales y estándares que definían una estructura familiar ideal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the late nineteenth century, when new legal codes institutionalized family norms, the control of husband over wife was codified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A finales del siglo XIX, cuando los nuevos códigos legales institucionalizaron las normas familiares, se codificó el control del marido sobre la mujer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In traditional agrarian life, land was almost never divided, because to do so might imperil the next generation's ability to survive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En la vida agraria tradicional, la tierra casi nunca se dividía, porque hacerlo podía poner en peligro la capacidad de supervivencia de la siguiente generación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In virtually all legal, political, and social contexts outside the home, women were subordinate to the male household head.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En prácticamente todos los contextos legales, políticos y sociales fuera del hogar, la mujer estaba subordinada al hombre cabeza de familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Infants often are taken to Shintō shrines thirty days after their birth, and the holiday Shichigosan in November is an occasion for children to be honored at shrines.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -610,6 +796,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T194724Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Japón tiene frontera con el océano Pacífico a lo largo de toda la costa oriental y meridional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japan's parliament, known as the Diet, consists of the House of Councilors and the House of Representatives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El parlamento japonés, conocido como la Dieta, está formado por la Cámara de Consejeros y la Cámara de Representantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Japanese people refer to a "credential" society, and educational credentials have often been regarded as the most important criteria for employment and marriage, particularly among the urban middle classes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los japoneses se refieren a una sociedad de "credenciales", y las credenciales educativas se han considerado a menudo como el criterio más importante para el empleo y el matrimonio, especialmente entre las clases medias urbanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Liberal American Protestantism influenced progressive reformers and established many private universities; Catholic universities and hospitals are equally prominent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -690,6 +892,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Las fiestas locales varían, pero la mayoría se centran en la celebración de la deidad tutelar de un pueblo, ciudad o barrio específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lower levels of local government and administration include counties and municipalities that are classified by population size: cities, towns, and villages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los niveles inferiores de gobierno y administración local incluyen condados y municipios que se clasifican según el tamaño de la población: ciudades, pueblos y aldeas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +944,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of these prohibitions have vanished, but in some ritual contexts they continue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La mayoría de estas prohibiciones han desaparecido, pero en algunos contextos rituales continúan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most written characters can be read in contemporary Japanese with both a Sino-Japanese pronunciation and a Japanese reading.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -742,10 +960,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Municipalities also have limited autonomous powers and are primarily providers of daily services.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los municipios también tienen poderes autónomos limitados y son principalmente proveedores de servicios diarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>National self-identity after the war focused instead on the pursuit of peace, and many Japanese stress their own country's losses.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>La identidad nacional después de la guerra se centró más bien en la búsqueda de la paz, y muchos japoneses subrayan las pérdidas de su propio país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neo-Confucianism defined all social roles in terms of hierarchical relationships; including the domination of husband over wife and of father over children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El neoconfucianismo definía todos los roles sociales en términos de relaciones jerárquicas; incluida la dominación del marido sobre la mujer y del padre sobre los hijos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,10 +1032,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Patron-client relationships sometimes are referred to as parent-child ties, and may involve elaborate formal rituals of bonding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las relaciones entre mecenas y clientes a veces se denominan vínculos entre padres e hijos, y pueden implicar elaborados rituales formales de vinculación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Patterns of traditional kinship still shape the social conventions of family life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los patrones de parentesco tradicional siguen conformando las convenciones sociales de la vida familiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Political Life</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T195904Z" creationid="ainhoa" creationdate="20220525T195904Z">
+        <seg>Vida política</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Political leaders have rarely acknowledged Japan's role as a conqueror of neighboring countries, and the nation has not expressed explicit regret.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Los líderes políticos rara vez han reconocido el papel de Japón como conquistador de los países vecinos, y la nación no ha expresado un arrepentimiento explícito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prefectures have limited authority over taxation and legal codes and act primarily as agents of the national government.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las prefecturas tienen una autoridad limitada sobre los impuestos y los códigos legales y actúan principalmente como agentes del gobierno nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +1144,31 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the early 1990s, there has been a dramatic increase in the numbers and range of activities of nonprofit organizations, stimulated in part by skepticism over the efficiency of government, the failure of government agencies to respond to major public issues and emergencies, and the desire to create institutions that will give more autonomy to citizens in shaping social policy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Durante las décadas de 1960 y 1970, se hicieron comunes los movimientos ciudadanos que se enfrentaban al gobierno, sobre todo en respuesta a cuestiones medioambientales. Desde principios de la década de 1990, se ha producido un aumento espectacular del número y el alcance de las actividades de las organizaciones sin ánimo de lucro, estimulado en parte por el escepticismo sobre la eficacia del gobierno, la incapacidad de los organismos gubernamentales para responder a los principales problemas y emergencias públicas, y el deseo de crear instituciones que den más autonomía a los ciudadanos en la configuración de la política social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the late nineteenth century, the elite levels of the national bureaucracy have been accorded enormous respect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Desde finales del siglo XIX, los niveles de élite de la burocracia nacional gozan de un enorme respeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the nineteenth century, however, Japanese Christians have been leaders in social reform movements, and many educational, medical, and other institutions have been sponsored by Christian groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El cuidado de los ancianos era tradicionalmente una responsabilidad familiar, pero se ha convertido en un enorme problema público debido al rápido envejecimiento de la población japonesa y al descenso de los hogares multigeneracionales. Organizaciones no gubernamentales y otras asociaciones
+Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la filantropía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the sixteenth century, religious life has been influenced by Christianity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -886,10 +1177,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slightly extended families, such as an elderly parent living with a married couple and their children, are not uncommon, but in general extended kin groups no longer play a major role in people's daily lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las familias ligeramente ampliadas, como un padre anciano que vive con una pareja casada y sus hijos, no son infrecuentes, pero en general los grupos de parientes ampliados ya no desempeñan un papel importante en la vida cotidiana de la gente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So in most cases, inheritance was by a single child, usually the eldest son.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Por eso, en la mayoría de los casos, la herencia recaía en un solo hijo, normalmente el mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Socialization</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194538Z" creationid="400" creationdate="20220525T194538Z">
         <seg>Socialización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some vestiges of arranged marriage continue and many couples rely on matchmakers to find mates.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Siguen existiendo algunos vestigios de matrimonios concertados y muchas parejas recurren a casamenteros para encontrar pareja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,10 +1257,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Japanese language includes sharply divergent styles of speech for men and women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El idioma japonés incluye estilos de habla muy divergentes para hombres y mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Korean peninsula is the closest point on the Asian mainland.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>La península de Corea es el punto más cercano del continente asiático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LDP was in effect a coalition among leaders of semiautonomous factions, and its hallmark was intricate compromises and backroom deals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El PLD era, en efecto, una coalición entre líderes de facciones semiautónomas, y su sello distintivo eran los intrincados compromisos y acuerdos de trastienda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1313,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ceremonies blend elements from Shintō marriage rituals and stylized adaptations of Christian weddings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las ceremonias mezclan elementos de los rituales matrimoniales de Shintō y adaptaciones estilizadas de las bodas cristianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The chrysanthemum, for example, serves as the crest of the imperial family, and cherry blossoms were invoked in wartime propaganda to represent the glory of kamikaze suicide pilots.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -994,6 +1333,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>El clima está determinado por los ciclos monzónicos de Asia-Pacífico, que traen fuertes lluvias del Pacífico durante el verano y el otoño, seguidas de vientos helados del norte de Asia durante el invierno que arrojan nieve en las montañas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The constitution of 1947 made equality of the sexes an established principle, and the legal framework of the traditional family structure has been dismantled.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La constitución de 1947 hizo de la igualdad de sexos un principio establecido, y el marco legal de la estructura familiar tradicional ha sido desmantelado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1393,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The growth of social movements has been limited because of deferential attitudes toward the state's role in public affairs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Sin embargo, desde el siglo XIX, los cristianos japoneses han liderado movimientos de reforma social, y muchas instituciones educativas, médicas y de otro tipo han sido patrocinadas por grupos cristianos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The household head's role ideally was to be steward for a family's intergenerational fortunes, honoring the memories of ancestors who had established the family's position and ensuring that family assets, traditions, and social standing would be passed on intact to an unbroken line of future heirs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El papel del cabeza de familia era, idealmente, el de administrador de la fortuna intergeneracional de la familia, honrando los recuerdos de los antepasados que habían establecido la posición de la familia y asegurando que los bienes familiares, las tradiciones y la posición social se transmitieran intactos a una línea ininterrumpida de futuros herederos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The introduction of Chinese characters 1,500 years ago established semantic and orthographic systems that make Japanese one of the most complicated languages in the world.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1082,6 +1445,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>La única rama importante del budismo japonés que no tiene conexiones estrechas con las tradiciones budistas chinas son las diversas sectas de la tradición Nichiren, que desarrollaron una ideología intensamente nacionalista y una orientación militante hacia el proselitismo que no es característica de otras sectas budistas japonesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The political power of the Lower House is much greater than that of the Upper House; prime ministers are elected from the Lower House, and most cabinet positions are also filled from the membership of that chamber.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El poder político de la Cámara Baja es mucho mayor que el de la Cámara Alta; los primeros ministros son elegidos de la Cámara Baja, y la mayoría de los puestos del gabinete también se cubren con los miembros de esa cámara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prestige and respect accorded to government ministries have plunged since the 1980s in response to the economic downturn and widely publicized incidents of corruption and incompetence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El prestigio y el respeto concedidos a los ministerios del gobierno han caído en picado desde la década de 1980 en respuesta a la recesión económica y a los incidentes de corrupción e incompetencia ampliamente difundidos. La Constitución de 1947 renunció al uso de la fuerza militar y prohibió al Estado mantener fuerzas armadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1513,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are forty-three ordinary prefectures, three metropolitan prefectures with special administrative powers, and one administrative region for the northernmost island.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Hay cuarenta y tres prefecturas ordinarias, tres prefecturas metropolitanas con poderes administrativos especiales y una región administrativa para la isla más septentrional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are only a handful of native speakers of Ainu.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1182,6 +1569,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This constitution guarantees equality of the sexes, extends suffrage to all adult citizens, underscores the emperor's postwar renunciation of claims to divine status, and assigns the emperor a symbolic role as head of state.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Esta constitución garantiza la igualdad de sexos, extiende el sufragio a todos los ciudadanos mayores de edad, subraya la renuncia del emperador a su estatus divino en la posguerra y le asigna un papel simbólico como jefe de Estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates enormous pressure to enter top-ranked schools.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -1198,6 +1593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This legal structure was radically altered after World War II, by reducing patriarchal authority, increasing the legal rights of women, and requiring that estates be shared among children and widows.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Esta estructura legal se modificó radicalmente tras la Segunda Guerra Mundial, reduciendo la autoridad patriarcal, aumentando los derechos legales de las mujeres y exigiendo que los bienes se repartieran entre los hijos y las viudas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those orthographies made it possible to write Chinese phonetically and to write spoken Japanese terms that had no equivalent Chinese characters.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1210,6 +1613,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>A través del sistema educativo nacional y del ejército, un dialecto nacional dominante sustituyó a los dialectos locales y regionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throughout the twentieth century, the government harnessed or supervised the activities of many nominally independent social groups and organizations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>El crecimiento de los movimientos sociales se ha visto limitado por la actitud deferente hacia el papel del Estado en los asuntos públicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1649,27 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Traditional artistic life is structured around master-apprentice relationships that involve adoption and the establishment of lineages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La vida artística tradicional se estructura en torno a las relaciones maestro-aprendiz que implican la adopción y el establecimiento de linajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Traditionally, sons were favored over daughters, and the oldest son was raised quite differently from the other sons.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Tradicionalmente, se favorecía a los hijos varones en detrimento de las hijas, y el hijo mayor era educado de forma muy diferente a los demás hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditionally, villages were organized around mutual assistance, and cultural norms still encourage social groups to take care of the needs of their individual members.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Organizaciones no gubernamentales y otras asociaciones
+Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la filantropía. Sin embargo, desde el siglo XIX, los cristianos japoneses han sido líderes en los movimientos de reforma social, y muchas instituciones educativas, médicas y de otro tipo han sido patrocinadas por grupos cristianos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,10 +1682,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upper House members are elected from national and local constituencies; Lower House member are elected from local constituencies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Los miembros de la Cámara Alta son elegidos en circunscripciones nacionales y locales; los de la Cámara Baja, en circunscripciones locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Various kinds of fictive kinship modeled on patterns of adoption and relationships between family banches have been used to sustain other kinds of social relationships.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Para sostener otros tipos de relaciones sociales se han utilizado diversos tipos de parentesco ficticio basados en patrones de adopción y relaciones entre banquillos familiares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weddings are almost always held in hotels or wedding halls, with a lavish banquet for several dozen guests.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las bodas se celebran casi siempre en hoteles o salones de bodas, con un lujoso banquete para varias docenas de invitados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weddings are elaborately staged, and the bride and groom typically go through several changes of costume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>Las bodas se escenifican de forma muy elaborada, y los novios suelen cambiarse varias veces de vestuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When used as a contemporary term, Yamato has strong associations with the imperial system, and thus with conservative nationalist ideologies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Cuando se utiliza como término contemporáneo, Yamato se asocia fuertemente con el sistema imperial y, por tanto, con las ideologías nacionalistas conservadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Women often are expected to use a more polite and formal style of speech that implies deference and observance of the established hierarchy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A menudo se espera que las mujeres utilicen un estilo de habla más educado y formal que implica deferencia y observancia de la jerarquía establecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Women were not permitted to enter certain sacred spaces, and in some communities were forbidden to board fishing vessels or enter mines or tunnels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>A las mujeres no se les permitía entrar en ciertos espacios sagrados, y en algunas comunidades se les prohibía subir a los barcos de pesca o entrar en las minas o túneles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Women's social participation also reflects various gendered divides.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>La participación social de las mujeres también refleja varias divisiones de género.</seg>
       </tuv>
     </tu>
     <tu>
