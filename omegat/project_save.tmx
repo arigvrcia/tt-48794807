@@ -46,6 +46,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The Japanese archipelago consists of four major islands and over six-thousand minor ones, covering approximately 234,890 square miles (378,000 square kilometers), and has enormous climatic variation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193937Z" creationid="ariadnagarcia" creationdate="20220525T193937Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; El archipiélago japonés está formado por cuatro islas principales y más de seis mil islas menores, con una superficie aproximada de 378.000 kilómetros cuadrados, y una enorme variación climática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The Japanese names, &lt;i2&gt; Nihon &lt;/i2&gt; and &lt;i3&gt; Nippon, &lt;/i3&gt; are alternative readings of written characters that mean "origin of the sun" ("Land of the Rising Sun").</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193443Z" creationid="ariadnagarcia" creationdate="20220525T193443Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Los nombres japoneses, &lt;i2&gt;Nihon &lt;/i2&gt; y &lt;i3&gt;Nippon,&lt;/i3&gt; son lecturas alternativas de caracteres escritos que significan "origen del sol" ("Tierra del Sol Naciente").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The population in 1999 was 127,000,000.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195436Z" creationid="ariadnagarcia" creationdate="20220525T195436Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La población en 1999 era de 127.000.000 de habitantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s0&gt; It consists of two major branches, known as Teravada and Mahayana Buddhism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T195105Z" creationid="400" creationdate="20220525T195105Z">
@@ -62,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Demography.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195410Z" creationid="ariadnagarcia" creationdate="20220525T195410Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Demografía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Higher Education.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194900Z" creationid="400" creationdate="20220525T194900Z">
@@ -70,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Identification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193324Z" creationid="ariadnagarcia" creationdate="20220525T193324Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Identificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Infant Care.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194554Z" creationid="400" creationdate="20220525T194554Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Cuidado de niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Location and Geography.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193749Z" creationid="ariadnagarcia" creationdate="20220525T193749Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Localización y geografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to the 1995 census, 81 million people (65 percent) live in urban areas; that constitutes only 3 percent of the land area.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Según el censo de 1995, 81 millones de personas (el 65%) viven en zonas urbanas, que constituyen sólo el 3% de la superficie terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After World War II, many new religious sects were founded and existing sects expanded enormously.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Después de la Segunda Guerra Mundial, se fundaron muchas sectas religiosas nuevas y las existentes se expandieron enormemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the Kingdom of Ryūkyū was annexed in 1879, the national government tried to replace the use of the Ryūkyū language with standard Japanese, but the isolation of the islands, their lack of development before World War II, and the American occupation until 1970, enabled Okinawans to maintain the use of their dialects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Tras la anexión del Reino de Ryūkyū en 1879, el gobierno nacional intentó sustituir el uso de la lengua de Ryūkyū por el japonés estándar, pero el aislamiento de las islas, su falta de desarrollo antes de la Segunda Guerra Mundial y la ocupación estadounidense hasta 1970, permitieron a los okinawenses mantener el uso de sus dialectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although Chinese and Japanese are fundamentally unrelated and differ in phonology, syntax, and grammar, Chinese has had enormous impact on the Japanese language and civilization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Aunque el chino y el japonés no están fundamentalmente relacionados y difieren en fonología, sintaxis y gramática, el chino ha tenido un enorme impacto en la lengua y la civilización japonesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although spoken and written forms of Japanese are largely standardized throughout the nation, there are several linguistically distinctive ethnic and regional dialects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Aunque las formas habladas y escritas del japonés están en gran medida estandarizadas en toda la nación, existen varios dialectos étnicos y regionales lingüísticamente distintivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the cultural legacies of neo-Confucianism are still evident in social patterns of hierarchy and deference, neo-Confucianism did not survive beyond the nineteenth century in Japan.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Aunque los legados culturales del neoconfucianismo siguen siendo evidentes en los patrones sociales de jerarquía y deferencia, el neoconfucianismo no sobrevivió más allá del siglo XIX en Japón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although work schedules permitted little leisure time, travel became a desired commodity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Aunque los horarios de trabajo permitían poco tiempo de ocio, viajar se convirtió en un bien deseado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +238,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An alternative system, adopted but not mandated by the government, is much less commonly used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Un sistema alternativo, adoptado pero no impuesto por el gobierno, es mucho menos utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At better schools, these exams can be extremely competitive.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>En las mejores escuelas, estos exámenes pueden ser extremadamente competitivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the beginning of the twenty-first century, there is a general sense that the postwar model of a stable, prosperous, and well-governed society has run its course.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>A principios del siglo XXI, existe la sensación generalizada de que el modelo de sociedad estable, próspera y bien gobernada de la posguerra se ha agotado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because of the intensity of pacifism in contemporary society, opposition to the military runs very strong, and the article in the constitution that prohibits military involvement is of great symbolic importance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Debido a la intensidad del pacifismo en la sociedad contemporánea, la oposición al ejército es muy fuerte, y el artículo de la constitución que prohíbe la participación militar tiene una gran importancia simbólica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because of the steep mountains, there are almost no navigable inland waterways.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195404Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Debido a las escarpadas montañas, casi no hay vías acuática interiores navegables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because of these trends, the population is projected to peak early in the twenty-first century and then shrink.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Debido a estas tendencias, se prevé que la población alcance su punto máximo a principios del siglo XXI y que después se reduzca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +358,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contemporary Japan is considered a highly homogeneous society, but regional variation in social and cultural patterns has always been significant.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El Japón contemporáneo se considera una sociedad muy homogénea, pero la variación regional en los patrones sociales y culturales siempre ha sido significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contemporary Japanese culture emphasizes symbolic expressions of local or regional identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La cultura japonesa contemporánea hace hincapié en las expresiones simbólicas de la identidad local o regional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Culture Name</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193259Z" creationid="ariadnagarcia" creationdate="20220525T193259Z">
+        <seg>Nombre de la cultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Culture of Japan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193238Z" creationid="ariadnagarcia" creationdate="20220525T193238Z">
+        <seg>Cultura de Japón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Despite similarity in syntax, vocabulary, and grammar, the contemporary languages are mutually unintelligible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>A pesar de la similitud en la sintaxis, el vocabulario y la gramática, las lenguas contemporáneas son mutuamente ininteligibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Differentiation of students by academic ability does not take place until the end of elementary school, and the emphasis in primary education is on social integration, self-discipline, and the fundamental skills of reading, writing, and arithmetic.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -242,6 +410,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Durante gran parte de la historia de Japón, el Shintō y el budismo han coexistido y se han influido mutuamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the last 150 years of industrialization and economic development, the population has grown from around thirty million to its present size.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195513Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Durante los últimos 150 años de industrialización y desarrollo económico, la población ha pasado de unos treinta millones al número actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +454,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>European names for the country probably originated with Marco Polo, who most likely adopted a name for Japan used in a Chinese dialect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los nombres europeos para el país probablemente se originaron con Marco Polo, que muy probablemente adoptó un nombre para Japón utilizado en un dialecto chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even in more prosaic circumstances, many points of etiquette are elaborately codified, including an extensive vocabulary and grammar for polite conversation; specific principles for the selection, presentation, and reciprocation of gifts; and standards for bowing and exchanging name cards.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Incluso en circunstancias más prosaicas, muchos aspectos de la etiqueta están codificados de forma elaborada, incluyendo un extenso vocabulario y una gramática para la conversación educada; principios específicos para la selección, presentación y reciprocidad de los regalos; y normas para las reverencias y el intercambio de tarjetas con el nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, local identity and pride are commonly expressed through "famous local products." Almost every village, town, and city is famous for something, often a locally distinctive folk craft, a local culinary specialty, or a traditional song or performing art.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Por ejemplo, la identidad y el orgullo locales se expresan habitualmente a través de los "famosos productos locales". Casi todos los pueblos, ciudades y aldeas son famosos por algo, a menudo por una artesanía local distintiva, una especialidad culinaria local o una canción tradicional o arte escénico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +494,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>High levels of disposable income, however, masked the astronomical cost of real estate and the growing division in urban society between the wealthy and the poor.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los altos niveles de renta disponible, sin embargo, enmascaraban el astronómico coste de los inmuebles y la creciente división de la sociedad urbana entre ricos y pobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>High schools are evaluated in terms of their success in placing their graduates prestigious universities.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Los institutos se evalúan en función de su éxito a la hora de colocar a sus graduados en universidades de prestigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His coronation and the elaborate Shintō rites that accompanied it were reminders of prewar rituals that evoked unwelcome memories of nationalism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Su coronación y los elaborados ritos del Shintō que la acompañaron fueron reminiscencias de los rituales de la preguerra que evocaron recuerdos no deseados del nacionalismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +530,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>En 1870 se levantó la prohibición del cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the adaptation of Chinese characters to preexisting Japanese vocabulary, two phonetic systems of writing were developed after the ninth century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Además de la adaptación de los caracteres chinos al vocabulario japonés preexistente, después del siglo IX se desarrollaron dos sistemas fonéticos de escritura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +598,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Japan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193243Z" creationid="ariadnagarcia" creationdate="20220525T193243Z">
+        <seg>Japón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japan faces the Pacific Ocean along the entire eastern and southern coastline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T194724Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Japón tiene frontera con el océano Pacífico a lo largo de toda la costa oriental y meridional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193309Z" creationid="ariadnagarcia" creationdate="20220525T193309Z">
+        <seg>Japonesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese also has close connections to various Oceanic (Malayo-Polynesian) languages, suggesting that in prehistoric times the archipelago may have been settled by populations from Oceania as well as from the Asian mainland.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El japonés también está estrechamente relacionado con varias lenguas oceánicas (malayo-polinesias), lo que sugiere que en la prehistoria el archipiélago pudo estar poblado por poblaciones de Oceanía y del continente asiático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Japanese did not become a written language until the sixth century, when Chinese orthography was introduced.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T195245Z" creationid="400" creationdate="20220525T195245Z">
@@ -390,10 +638,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Japanese is linguistically related to Korean, and both languages are thought to be members of the Ural-Altaic family.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El japonés está emparentado lingüísticamente con el coreano, y se cree que ambas lenguas son miembros de la familia uralo-altaica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese life has always been oriented toward the ocean.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La vida japonesa siempre ha estado orientada hacia el océano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese people often attribute personality traits to people from particular regions, and regional identity often is expressed through local culinary specialties and dialects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193731Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los japoneses suelen atribuir rasgos de la personalidad a personas de determinadas regiones, y la identidad regional se expresa a menudo a través de las especialidades culinarias y los dialectos locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Liberal American Protestantism influenced progressive reformers and established many private universities; Catholic universities and hospitals are equally prominent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>El protestantismo liberal estadounidense influyó en los reformistas progresistas y estableció muchas universidades privadas; las universidades y los hospitales católicos son igualmente destacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Life expectancy is the highest in the world, and the birthrate has been declining dramatically.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La esperanza de vida es la más alta del mundo y la tasa de natalidad ha disminuido drásticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linguistic unification was a step toward shaping the national identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La unificación lingüística fue un paso hacia la conformación de la identidad nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +726,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most Korean-Japanese are bilingual or, especially among the younger generations, monolingual speakers of Japanese.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La mayoría de los coreano-japoneses son bilingües o, especialmente entre las generaciones más jóvenes, monolingües de japonés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most written characters can be read in contemporary Japanese with both a Sino-Japanese pronunciation and a Japanese reading.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La mayoría de los caracteres escritos pueden leerse en el japonés contemporáneo tanto con una pronunciación sino-japonesa como con una lectura japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>National self-identity after the war focused instead on the pursuit of peace, and many Japanese stress their own country's losses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La identidad nacional después de la guerra se centró más bien en la búsqueda de la paz, y muchos japoneses subrayan las pérdidas de su propio país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>O-Bon in mid-August marks the season when the spirits of the deceased return to their homes, and many people go to their hometowns to clean graves and celebrate memories of the departed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -446,10 +758,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okinawan dialects are considered by many linguists to be distinct from Japanese.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Muchos lingüistas consideran que los dialectos de Okinawa son distintos del japonés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only about 15 percent of the land is level enough for agriculture, and so the population density in coastal plains and valleys is extremely high.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Sólo un 15% del terreno es lo suficientemente llano para la agricultura, por lo que la densidad de población en las llanuras y valles costeros es extremadamente alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193317Z" creationid="ariadnagarcia" creationdate="20220525T193317Z">
+        <seg>Orientación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other linguistic minorities include the Korean-Japanese and the Ainu.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Otras minorías lingüísticas son los coreano-japoneses y los ainu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Particularly close bonds between oldest sons and their mothers were not uncommon.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>No era raro que los hijos mayores mantuvieran vínculos especialmente estrechos con sus madres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Political leaders have rarely acknowledged Japan's role as a conqueror of neighboring countries, and the nation has not expressed explicit regret.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los líderes políticos rara vez han reconocido el papel de Japón como conquistador de los países vecinos, y la nación no ha expresado un arrepentimiento explícito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pride of place and identification with local cultural patterns remain strong.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193712Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El orgullo por la patria y la identificación con los patrones culturales locales siguen arraigados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Progressive political groups resist flying the national flag and singing the national anthem (Kimigayo) because of their wartime associations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los grupos políticos progresistas se resisten a enarbolar la bandera nacional y a cantar el himno nacional (Kimigayo) debido a sus asociaciones con los tiempos de guerra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simultaneously, the political system has been shaken by the breakup of the long-ruling Liberal Democratic Party in 1993 and by widespread corruption scandals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Simultáneamente, el sistema político se ha visto sacudido por la ruptura del Partido Liberal Democrático, que gobernó durante mucho tiempo, en 1993, y por los escándalos de corrupción generalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the sixteenth century, religious life has been influenced by Christianity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -518,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stereotypical images that are deployed in foreign representations of Japan, such as Mount Fuji, geisha, and samurai, are not regarded by Japanese people as symbols of contemporary identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Las imágenes estereotipadas que se despliegan en las representaciones extranjeras de Japón, como el monte Fuji, las geishas y los samuráis, no son consideradas por los japoneses como símbolos de la identidad contemporánea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Taoism is a Chinese philosophical tradition that emphasizes the spiritual and mystical connection between human beings and nature.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -530,6 +914,46 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>El budismo teravada, en general, es la rama que se practica en el sur de Asia, Asia central y el sudeste asiático, y el mahayana es la rama que influyó en las civilizaciones china, coreana y japonesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Chinese system of writing was introduced along with Buddhism in the sixth century, and Chinese orthography was used to transform Japanese into a written language.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El sistema de escritura chino se introdujo junto con el budismo en el siglo VI, y la ortografía china se utilizó para transformar el japonés en una lengua escrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Heisei period (1989 to the present) began with great hopes that it would usher in the "Japanese century," but the era of prosperity sputtered to a halt.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El periodo Heisei (desde 1989 hasta la actualidad) comenzó con grandes esperanzas de que daría paso al "siglo japonés", pero la era de prosperidad se detuvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Heisei period has thus far been a time of unremitting economic stagnation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El periodo Heisei ha sido hasta ahora una época de incesante estancamiento económico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Korean peninsula is the closest point on the Asian mainland.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La península de Corea es el punto más cercano del continente asiático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Shōwa Emperor died in 1989, succeeded by his son, who became the Emperor Heisei.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El emperador Shōwa murió en 1989, sucedido por su hijo, que se convirtió en el emperador Heisei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +982,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The chrysanthemum, for example, serves as the crest of the imperial family, and cherry blossoms were invoked in wartime propaganda to represent the glory of kamikaze suicide pilots.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El crisantemo, por ejemplo, es el escudo de la familia imperial, y los cerezos en flor fueron invocados en la propaganda de guerra para representar la gloria de los pilotos suicidas kamikaze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The climate is shaped by Asian-Pacific monsoon cycles, which bring heavy rains from the Pacific during the summer and fall, followed by icy winds from North Asia during the winter that dump snow in the mountains.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El clima está determinado por los ciclos monzónicos de Asia-Pacífico, que traen fuertes lluvias del Pacífico durante el verano y el otoño, seguidas de vientos helados del norte de Asia durante el invierno que arrojan nieve en las montañas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contemporary language relies on an enormous number of words and terms that are Sino-Japanese in origin as well as words derived from indigenous Japanese terminology.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La lengua contemporánea cuenta con un enorme número de palabras y términos de origen sino-japonés, así como con palabras derivadas de la terminología japonesa autóctona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The country is heavily urbanized, and urban areas have extremely high population densities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El país está muy urbanizado, y las zonas urbanas tienen una densidad de población extremadamente alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The currents that converge offshore create fertile and varied fishing grounds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T194945Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Las corrientes que convergen en alta mar crean caladeros fértiles y variados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The establishment of a national educational system and a national conscript army, the growth of an efficient transportation system, and the development of mass media significantly hastened the homogenization of regional differences, as did industrialization, urban development, and economic and social change.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El establecimiento de un sistema educativo nacional y un ejército nacional de reclutas, el crecimiento de un sistema de transporte eficiente y el desarrollo de los medios de comunicación aceleraron significativamente la homogeneización de las diferencias regionales, al igual que la industrialización, el desarrollo urbano y el cambio económico y social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The examination system is a source of anxiety for children and their families (pushy mothers are dubbed "education mamas").</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -566,10 +1038,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The four major islands are Hokkaidō, Honshū, Shikoku, and Kyūshū.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Las cuatro islas principales son Hokkaidō, Honshū, Shikoku y Kyūshū.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The introduction of Chinese characters 1,500 years ago established semantic and orthographic systems that make Japanese one of the most complicated languages in the world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>La introducción de los caracteres chinos hace 1.500 años estableció sistemas semánticos y ortográficos que hacen del japonés una de las lenguas más complicadas del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The light of dawn falls on a sign at the Tsukiji Fish Market during a tuna auction.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T195231Z" creationid="400" creationdate="20220525T195231Z">
         <seg>La luz del amanecer cae sobre un cartel en el mercado de pescado de Tsukiji durante una subasta de atún.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most distant dialects are those spoken in the Okinawan islands.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Los dialectos más lejanos son los que se hablan en las islas de Okinawa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name "Yamato" is used by archaeologists and historians to distinguish Japanese artistic genres from their Chinese counterparts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El nombre "Yamato" es utilizado por arqueólogos e historiadores para distinguir los géneros artísticos japoneses de sus homólogos chinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The southern island group of Okinawa (the Ryūkyū Islands) is geographically, historically, and culturally distinct.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>El grupo de islas del sur de Okinawa (las islas Ryūkyū) es geográfica, histórica y culturalmente distinto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The traditional family system was organized around a multigenerational household with a single central authority: the male household head.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -610,6 +1122,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Hay 165 universidades públicas y 460 privadas y colegios de cuatro años, y casi 600 colegios de dos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are approximately 1,500 volcanoes, and because the islands lie on major fault lines, earthquakes are common occurrences.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Hay unos 1.500 volcanes, y como las islas están situadas sobre grandes fallas, los terremotos son frecuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are only a handful of native speakers of Ainu.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Sólo hay un puñado de hablantes nativos de ainu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,10 +1174,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These symbols have contested meanings because they are associated with the imperial family and World War II.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Estos símbolos tienen significados controvertidos porque están asociados a la familia imperial y a la Segunda Guerra Mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates enormous pressure to enter top-ranked schools.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Esto crea una enorme presión para entrar en las escuelas mejor clasificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This increase occurred as a result of a rapid demographic transition characterized by an enormous movement of people from rural to urban areas, dramatic decreases in infant mortality, increases in longevity, widespread reliance on birth control, and transformations of family composition from large, multigenerational extended households to small nuclear families.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Este aumento se ha producido como resultado de una rápida transición demográfica caracterizada por un enorme movimiento de personas de las zonas rurales a las urbanas, un drástico descenso de la mortalidad infantil, un aumento de la longevidad, un recurso generalizado al control de la natalidad y una transformación de la composición de las familias, que han pasado de ser grandes hogares multigeneracionales a pequeñas familias nucleares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those orthographies made it possible to write Chinese phonetically and to write spoken Japanese terms that had no equivalent Chinese characters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Estas ortografías permitieron escribir fonéticamente el chino y escribir términos hablados en japonés que no tenían caracteres chinos equivalentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Through the national educational system and the military, a dominant national dialect replaced local and regional dialects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>A través del sistema educativo nacional y del ejército, un dialecto nacional dominante sustituyó a los dialectos locales y regionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To the north and west are the Sea of Okhotsk, the Sea of Japan, and the East China Sea.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T194916Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Al norte y al oeste se encuentran el mar de Ojotsk, el mar del Japón y el mar de China Oriental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +1242,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>Tradicionalmente, se favorecía a los hijos varones en detrimento de las hijas, y el hijo mayor era educado de forma muy diferente a los demás hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Until the nineteenth century, stylized versions of written Chinese remained a hallmark of elite culture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Hasta el siglo XIX, las versiones estilizadas del chino escrito siguieron siendo un distintivo de la cultura de élite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When used as a contemporary term, Yamato has strong associations with the imperial system, and thus with conservative nationalist ideologies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Cuando se utiliza como término contemporáneo, Yamato se asocia fuertemente con el sistema imperial y, por tanto, con las ideologías nacionalistas conservadoras.</seg>
       </tuv>
     </tu>
     <tu>
