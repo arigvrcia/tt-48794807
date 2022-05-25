@@ -591,6 +591,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downtown Hiroshima and the memorial of the atomic bomb.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201625Z" creationid="ainhoa" creationdate="20220525T201625Z">
+        <seg>El centro de Hiroshima y el monumento a la bomba atómica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During much of Japanese history, Shintō and Buddhism have coexisted and influenced each other.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -1466,6 +1474,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The bombing of Hiroshima and Nagasaki brought Japan to unconditional surrender in World War II.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201708Z" creationid="ainhoa" creationdate="20220525T201708Z">
+        <seg>El bombardeo de Hiroshima y Nagasaki llevó a Japón a la rendición incondicional en la Segunda Guerra Mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ceremonies blend elements from Shintō marriage rituals and stylized adaptations of Christian weddings.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
@@ -1919,6 +1935,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194230Z" creationid="ainhoa" creationdate="20220525T194230Z">
         <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>new employment laws, equality in education, and employment, career advancement remains an ideal, and "glass ceilings," gender gaps in salaries, and different educational and employment tracks remain common.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201601Z" creationid="ainhoa" creationdate="20220525T201601Z">
+        <seg>las nuevas leyes de empleo, la igualdad en la educación y el empleo, la promoción profesional sigue siendo un ideal, y los "techos de cristal", las diferencias salariales entre hombres y mujeres y las diferentes vías de educación y empleo siguen siendo comunes..</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
