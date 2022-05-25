@@ -1762,6 +1762,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writing system &lt;i0&gt; rōmaji &lt;/i0&gt; ("Roman characters") is used to transcribe Japanese into the Roman alphabet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213601Z" creationid="ariadnagarcia" creationdate="20220525T213601Z">
+        <seg>El sistema de escritura &lt;i0&gt;rōmaji &lt;/i0&gt;("caracteres romanos") se utiliza para transcribir el japonés al alfabeto romano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are 165 public and 460 private universities and four-year colleges and almost 600 two-year colleges.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
