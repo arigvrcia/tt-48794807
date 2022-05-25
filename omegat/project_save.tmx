@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200649Z" creationid="ariadnagarcia" creationdate="20220525T200649Z">
+        <seg>Después de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the Kingdom of Ryūkyū was annexed in 1879, the national government tried to replace the use of the Ryūkyū language with standard Japanese, but the isolation of the islands, their lack of development before World War II, and the American occupation until 1970, enabled Okinawans to maintain the use of their dialects.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1000,6 +1008,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Meiji Restoration in 1868, the government attempted to create a strong centralized state.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200714Z" creationid="ariadnagarcia" creationdate="20220525T200714Z">
+        <seg>la Restauración Meiji en 1868, el gobierno intentó crear un estado fuerte y centralizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most Korean-Japanese are bilingual or, especially among the younger generations, monolingual speakers of Japanese.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1541,6 +1557,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
         <seg>La religión no tiene un dogma formal ni escrituras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting dialect, &lt;i0&gt; hyōjungo &lt;/i0&gt; ("the standard language"), was based on the linguistic patterns of Tōkyō's samurai ("warrior") classes and has become the norm in the educational system, the mass media, government, and business.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200839Z" creationid="ariadnagarcia" creationdate="20220525T200839Z">
+        <seg>El dialecto resultante, &lt;i0&gt;hyōjungo &lt;/i0&gt;("la lengua estándar"), se basó en los patrones lingüísticos de las clases samurái ("guerrero") de Tōkyō y se ha convertido en la norma en el sistema educativo, los medios de comunicación, el gobierno y las empresas.</seg>
       </tuv>
     </tu>
     <tu>
