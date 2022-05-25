@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Authority and autonomy for women traditionally were confined to domestic matters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201246Z" creationid="ainhoa" creationdate="20220525T201246Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La autoridad y la autonomía de la mujer se limitaban tradicionalmente a los asuntos domésticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Because of Shintō beliefs about ritual purity and pollution, women were excluded from many aspects of ritual life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201153Z" creationid="ainhoa" creationdate="20220525T201153Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Debido a las creencias de los Shinto sobre la pureza ritual y la contaminación, las mujeres estaban excluidas de muchos aspectos de la vida ritual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; Child rearing involves a high degree of physical and emotional interaction between mother and child; fathers are less involved.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194828Z" creationid="400" creationdate="20220525T194828Z">
@@ -226,6 +242,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T195330Z" creationid="ainhoa" creationdate="20220525T194445Z">
         <seg>&lt;b0&gt; Símbolos de la estratificación social. &lt;i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; The Relative Status of Women and Men.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201217Z" creationid="ainhoa" creationdate="20220525T201217Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Situación relativa de las mujeres y hombres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,6 +563,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193238Z" creationid="ariadnagarcia" creationdate="20220525T193238Z">
         <seg>Cultura de Japón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Despite</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201500Z" creationid="ainhoa" creationdate="20220525T201500Z">
+        <seg>A pesar de</seg>
       </tuv>
     </tu>
     <tu>
