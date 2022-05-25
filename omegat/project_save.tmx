@@ -1096,6 +1096,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literacy therefore became attainable for people not educated in the Chinese classics, and many masterpieces of classical Japanese literature, including the &lt;i0&gt; Tale of Genji, &lt;/i0&gt; were written in those scripts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213520Z" creationid="ariadnagarcia" creationdate="20220525T213520Z">
+        <seg>Por ello, la alfabetización se hizo accesible para las personas que no conocían los clásicos chinos, y muchas obras maestras de la literatura clásica japonesa, como la &lt;i0&gt;Novela de Genji &lt;/i0&gt;, se escribieron en esas escrituras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local festivals vary, but most center on the celebration of the tutelary deity of a specific village, town, or neighborhood.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -1868,8 +1876,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>Those orthographies made it possible to write Chinese phonetically and to write spoken Japanese terms that had no equivalent Chinese characters.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Estas ortografías permitieron escribir fonéticamente el chino y escribir términos hablados en japonés que no tenían caracteres chinos equivalentes.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213236Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Estas ortografías permitieron escribir el chino fonéticamente y escribir términos hablados en japonés que no tenían caracteres chinos equivalentes.</seg>
       </tuv>
     </tu>
     <tu>
