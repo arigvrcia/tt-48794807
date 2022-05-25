@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt; Rōmaji &lt;/i1&gt; is widely used on signs, in advertising, and in the mass media.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213700Z" creationid="ariadnagarcia" creationdate="20220525T213700Z">
+        <seg>&lt;i1&gt; El rōmaji &lt;/i1&gt; se utiliza mucho en carteles, publicidad y medios de comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A college degree is a prerequisite for most middle-class occupations, and many companies formally restrict their recruiting to graduates of specific universities.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -376,8 +384,8 @@
       <tuv lang="en">
         <seg>After the Kingdom of Ryūkyū was annexed in 1879, the national government tried to replace the use of the Ryūkyū language with standard Japanese, but the isolation of the islands, their lack of development before World War II, and the American occupation until 1970, enabled Okinawans to maintain the use of their dialects.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Tras la anexión del Reino de Ryūkyū en 1879, el gobierno nacional intentó sustituir el uso de la lengua de Ryūkyū por el japonés estándar, pero el aislamiento de las islas, su falta de desarrollo antes de la Segunda Guerra Mundial y la ocupación estadounidense hasta 1970, permitieron a los okinawenses mantener el uso de sus dialectos.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213824Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Tras la anexión del Reino de Ryūkyū en 1879, el gobierno nacional intentó sustituir el uso de la lengua de Ryūkyū por el japonés estándar, pero el aislamiento de las islas, su falta de desarrollo antes de la Segunda Guerra Mundial y la ocupación estadounidense hasta 1970 permitieron a los okinawenses mantener el uso de sus dialectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,8 +1804,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>There are only a handful of native speakers of Ainu.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Sólo hay un puñado de hablantes nativos de ainu.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213854Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Sólo hay unos pocos hablantes nativos de ainu.</seg>
       </tuv>
     </tu>
     <tu>
