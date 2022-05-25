@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Division of Labor by Gender.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201003Z" creationid="ainhoa" creationdate="20220525T201003Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; División del trabajo por género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Government.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T195911Z" creationid="ainhoa" creationdate="20220525T195911Z">
@@ -663,6 +671,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gender Roles and Statuses</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201111Z" creationid="ainhoa" creationdate="20220525T201111Z">
+        <seg>Roles y estatus de género</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>High levels of disposable income, however, masked the astronomical cost of real estate and the growing division in urban society between the wealthy and the poor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -936,6 +952,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Japanese religious traditions have not emphasized charity or philanthropy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T200614Z" creationid="ainhoa" creationdate="20220525T200614Z">
+        <seg>Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la filantropía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Liberal American Protestantism influenced progressive reformers and established many private universities; Catholic universities and hospitals are equally prominent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -1060,6 +1084,15 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
         <seg>El neoconfucianismo definía todos los roles sociales en términos de relaciones jerárquicas; incluida la dominación del marido sobre la mujer y del padre sobre los hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nongovernmental Organizations and Other Associations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T200556Z" creationid="ainhoa" creationdate="20220525T200556Z">
+        <seg>Organizaciones no gubernamentales y otras asociaciones
+</seg>
       </tuv>
     </tu>
     <tu>
