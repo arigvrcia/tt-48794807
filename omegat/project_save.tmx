@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The official and predominant language is Japanese (Nihongo).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200640Z" creationid="ariadnagarcia" creationdate="20220525T200640Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La lengua oficial y predominante es el japonés (nihongo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; The population in 1999 was 127,000,000.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195436Z" creationid="ariadnagarcia" creationdate="20220525T195436Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T200211Z" creationid="ainhoa" creationdate="20220525T200211Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Dirigentes y funcionarios políticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Linguistic Affiliation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200519Z" creationid="ariadnagarcia" creationdate="20220525T200519Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Afiliación lingüística.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,8 +1667,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>This increase occurred as a result of a rapid demographic transition characterized by an enormous movement of people from rural to urban areas, dramatic decreases in infant mortality, increases in longevity, widespread reliance on birth control, and transformations of family composition from large, multigenerational extended households to small nuclear families.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Este aumento se ha producido como resultado de una rápida transición demográfica caracterizada por un enorme movimiento de personas de las zonas rurales a las urbanas, un drástico descenso de la mortalidad infantil, un aumento de la longevidad, un recurso generalizado al control de la natalidad y una transformación de la composición de las familias, que han pasado de ser grandes hogares multigeneracionales a pequeñas familias nucleares.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T200405Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Este aumento se ha producido como resultado de una rápida transición demográfica caracterizada por un enorme movimiento de personas de las zonas rurales a las urbanas, un drástico descenso de la mortalidad infantil, un aumento de la longevidad, una dependencia generalizada del control de la natalidad y una transformación de la composición de las familias, que han pasado de ser grandes hogares multigeneracionales a pequeñas familias nucleares.</seg>
       </tuv>
     </tu>
     <tu>
