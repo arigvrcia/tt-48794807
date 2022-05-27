@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; An extremely varied diet makes use of culinary elements from around the world, including the cuisines of Korea, China, South and Southeast Asia, Europe, and North America.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184529Z" creationid="Usuario" creationdate="20220527T184529Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Una dieta extremadamente variada hace uso de elementos culinarios de todo el mundo, incluyendo las cocinas de Corea, China, el sur y el sureste de Asia, Europa y América del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; Authority and autonomy for women traditionally were confined to domestic matters.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201246Z" creationid="ainhoa" creationdate="20220525T201246Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T174157Z" creationid="Usuario" creationdate="20220527T174157Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Relaciones étnicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Food in Daily Life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184515Z" creationid="Usuario" creationdate="20220527T184515Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; La alimentación en la vida cotidiana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,6 +1143,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Food and Economy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184456Z" creationid="Usuario" creationdate="20220527T184456Z">
+        <seg>Alimentación y economía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, local identity and pride are commonly expressed through "famous local products." Almost every village, town, and city is famous for something, often a locally distinctive folk craft, a local culinary specialty, or a traditional song or performing art.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T214507Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1284,6 +1308,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
         <seg>El cuidado de los ancianos era tradicionalmente una responsabilidad familiar, pero se ha convertido en un enorme problema público debido al rápido envejecimiento de la población japonesa y al descenso de los hogares multigeneracionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, notions of "traditional" Japanese cuisine are an important element of cultural identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184615Z" creationid="Usuario" creationdate="20220527T184615Z">
+        <seg>Sin embargo, las nociones de la cocina japonesa "tradicional" son un elemento importante de la identidad cultural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2690,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The defining characteristics include ingredients, styles of preparation, and aesthetics.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184631Z" creationid="Usuario" creationdate="20220527T184631Z">
+        <seg>Las características definitorias incluyen los ingredientes, los estilos de preparación y la estética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The earliest forms of architecture are reflected in the austere simplicity of some Shintō shrines.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183529Z" creationid="Usuario" creationdate="20220527T183529Z">
@@ -3419,6 +3459,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>White rice is a staple component of virtually every meal; other typical ingredients include soy products and seafood that is served grilled or raw.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184759Z" creationid="Usuario" creationdate="20220527T184759Z">
+        <seg>El arroz blanco es un componente básico de prácticamente todas las comidas; otros ingredientes típicos son los productos de soja y el marisco que se sirve asado o crudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With the beginning of the Shōwa period in 1926 (when Hirohito, the Emperor Shōwa, succeeded to the throne), society shifted increasingly toward the right.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220520T161052Z" creationid="OmegaT Aligner" creationdate="20220520T160602Z">
@@ -3429,8 +3477,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>Within private settings that are used and occupied by a group of people on an ongoing basis, clear spatial patterns reflect the internal hierarchies of social position within the group and between the group and others.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184349Z" creationid="Usuario" creationdate="20220527T184349Z">
-        <seg>Dentro de los entornos privados que son utilizados y ocupados por un grupo de personas de forma continua, los patrones espaciales claros reflejan las jerarquías internas de la posición social dentro del grupo y entre el grupo y los demás.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184433Z" creationid="Usuario" creationdate="20220527T184349Z">
+        <seg>Dentro de los entornos privados que son utilizados y ocupados por un grupo de personas de forma continuada, los patrones espaciales claros reflejan las jerarquías internas de la posición social dentro del grupo y entre el grupo y los demás.</seg>
       </tuv>
     </tu>
     <tu>
