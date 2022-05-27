@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>300 &lt;s4&gt; B.C.E.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205440Z" creationid="ariadnagarcia" creationdate="20220527T205440Z">
+        <seg>300 &lt;s4&gt; a. e. c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>300 &lt;s5&gt; C.E.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205524Z" creationid="ariadnagarcia" creationdate="20220527T205524Z">
+        <seg>300 &lt;s5&gt; e.c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; &lt;i2&gt; Keiretsu &lt;/i2&gt; —groups of companies that are closely linked through overlapping stock ownership, preferential supply relationships, coordination of economic activities, and extensive subcontracting relationships—play a central role in the economy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190216Z" creationid="Usuario" creationdate="20220527T190109Z">
@@ -184,8 +200,8 @@
       <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; The peoples of the Jōmon period (8000 &lt;s2&gt; B.C.E.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210652Z" creationid="ariadnagarcia" creationdate="20220502T203347Z">
-        <seg>Los pueblos del periódo Jōmon (8000 a. e. c.-300 a. e. c.)&lt;/i1&gt; &lt;/b0&gt;&lt;s2&gt;</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205309Z" creationid="ariadnagarcia" creationdate="20220502T203347Z">
+        <seg>Los pueblos del periódo Jōmon (8000&lt;s2&gt; a. e. c.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s2&gt; –300 &lt;s3&gt; B.C.E.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205340Z" creationid="ariadnagarcia" creationdate="20220527T205340Z">
+        <seg>&lt;/s2&gt;-300 &lt;s3&gt; a. e. c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s3&gt; ) were Neolithic hunting-and-gathering bands.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T204911Z" creationid="ariadnagarcia" creationdate="20220502T203429Z">
-        <seg>eran bandas del Neolítico que se dedicaban a cazar y recolectar.&lt;/s3&gt; )</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205408Z" creationid="ariadnagarcia" creationdate="20220502T203429Z">
+        <seg>&lt;/s3&gt; ) eran bandas del Neolítico que se dedicaban a cazar y recolectar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s4&gt; – ca.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205503Z" creationid="ariadnagarcia" creationdate="20220527T205503Z">
+        <seg>&lt;/s4&gt; aproximadamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1137,8 +1169,8 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       <tuv lang="en">
         <seg>During the Yayoi period (ca.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210821Z" creationid="ariadnagarcia" creationdate="20220502T203517Z">
-        <seg>Durante el periódo Yayoi (aproximadamente 300 a. e. c.-300 e. c.)</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205419Z" creationid="ariadnagarcia" creationdate="20220502T203517Z">
+        <seg>Durante el periódo Yayoi (aproximadamente </seg>
       </tuv>
     </tu>
     <tu>
