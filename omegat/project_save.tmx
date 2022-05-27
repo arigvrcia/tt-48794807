@@ -751,6 +751,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Castle towns</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181948Z" creationid="Usuario" creationdate="20220527T181948Z">
+        <seg>Ciudades castillo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Central control was in the hands of the Shōgun's court, while regional lords governed individual provincial domains and commanded the personal loyalty of warrior retainers (samurai).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220504T220911Z" creationid="Usuario" creationdate="20220504T220801Z">
@@ -963,6 +971,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210821Z" creationid="ariadnagarcia" creationdate="20220502T203517Z">
         <seg>Durante el periódo Yayoi (aproximadamente 300 a. e. c.-300 e. c.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the civil wars of the fifteenth and sixteenth centuries, the characteristic urban place was the castle town, a fortified city that served as headquarters for the provincial warlord.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181937Z" creationid="Usuario" creationdate="20220527T181937Z">
+        <seg>Durante las guerras civiles de los siglos XV y XVI, el lugar urbano característico era la ciudad castillo, una ciudad fortificada que servía de cuartel general al caudillo provincial.</seg>
       </tuv>
     </tu>
     <tu>
