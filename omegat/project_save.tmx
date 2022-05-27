@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Japanese society has been portrayed as being essentially classless or as having a class structure in which very tiny elite groups and underclasses bracket an enormous number of middle-class people.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190800Z" creationid="Usuario" creationdate="20220527T190800Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; La sociedad japonesa ha sido descrita como esencialmente sin clases sociales o con una estructura de clases en la que unos grupos de élite muy reducidos y unas clases bajas engloban a un enorme número de personas de clase media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; Marriage is generally based on mutual attraction between individuals; this is known as a "love marriage" in contrast to the traditional "arranged marriage" in which a go-between negotiated a match in a process that might give parental opinions more weight than those of the prospective bride and groom.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201858Z" creationid="ainhoa" creationdate="20220525T201858Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194723Z" creationid="400" creationdate="20220525T194723Z">
         <seg>&lt;b0&gt; &lt;i1&gt; Crianza y educación de los hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Classes and Castes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190629Z" creationid="Usuario" creationdate="20220527T190629Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Clases y castas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1331,6 +1347,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220520T161049Z" creationid="ainhoa" creationdate="20220520T161049Z">
         <seg>General Douglas McArthur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government agencies set both broad economic policies and measures targeted at specific sectors, and business generally cooperates with government planning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190523Z" creationid="Usuario" creationdate="20220527T190523Z">
+        <seg>Los organismos públicos establecen tanto políticas económicas generales como medidas dirigidas a sectores específicos, y las empresas suelen cooperar con la planificación gubernamental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2417,6 +2441,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since World War II, business and government have maintained extremely close ties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190510Z" creationid="Usuario" creationdate="20220527T190510Z">
+        <seg>Desde la Segunda Guerra Mundial, las empresas y el gobierno han mantenido unos vínculos muy estrechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since World War II, consumption of dairy products, beef, bread, and other Western foods has increased dramatically.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185019Z" creationid="Usuario" creationdate="20220527T185019Z">
@@ -2486,6 +2518,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
         <seg>Por eso, en la mayoría de los casos, la herencia recaía en un solo hijo, normalmente el mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Social Stratification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190600Z" creationid="Usuario" creationdate="20220527T190600Z">
+        <seg>Estratificación social</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2766,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201708Z" creationid="ainhoa" creationdate="20220525T201708Z">
         <seg>El bombardeo de Hiroshima y Nagasaki llevó a Japón a la rendición incondicional en la Segunda Guerra Mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The business establishment has been a major backer of the Liberal Democratic Party, and its successors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190537Z" creationid="Usuario" creationdate="20220527T190537Z">
+        <seg>La clase empresarial ha sido uno de los principales apoyos del Partido Liberal Democrático y de sus sucesores.</seg>
       </tuv>
     </tu>
     <tu>
