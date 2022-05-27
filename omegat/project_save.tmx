@@ -528,8 +528,8 @@
       <tuv lang="en">
         <seg>Almost all the cities were heavily damaged by bombing during World War II.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183052Z" creationid="Usuario" creationdate="20220527T183052Z">
-        <seg>Casi todas las ciudades sufrieron graves daños por los bombardeos durante la Segunda Guerra Mundial.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183149Z" creationid="Usuario" creationdate="20220527T183052Z">
+        <seg>Casi todas las ciudades fueron gravemente dañadas por los bombardeos durante la Segunda Guerra Mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +738,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220520T075306Z" creationid="OmegaT Aligner" creationdate="20220520T075306Z">
         <seg>En la década de 1920, Japón se consideraba una potencia militar mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By the 1960s, urban sprawl had created enormous megalopolises.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183340Z" creationid="Usuario" creationdate="20220527T183340Z">
+        <seg>En los años 60, la expansión urbana había creado enormes megalópolis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2113,6 +2121,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Roughly a quarter of the population lives in the greater Tōkyō region, and less than 10 percent of the people live in rural areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183446Z" creationid="Usuario" creationdate="20220527T183446Z">
+        <seg>Aproximadamente una cuarta parte de la población vive en la gran región de Tōkyō, y menos del 10% vive en zonas rurales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rows of apartment houses in Osaka.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182005Z" creationid="Usuario" creationdate="20220527T182005Z">
@@ -2990,6 +3006,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220520T084339Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
         <seg>Eran ferozmente nacionalistas e intentaron equiparar a la sociedad japonesa con las potencias europeas y norteamericanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They were rebuilt quickly after the war, and a massive urban migration occurred throughout the 1950s and 1960s as a result of large-scale industrialization and economic development.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183320Z" creationid="Usuario" creationdate="20220527T183320Z">
+        <seg>Se reconstruyeron rápidamente después de la guerra, y se produjo una migración urbana masiva a lo largo de las décadas de 1950 y 1960 como resultado de la industrialización y el desarrollo económico a gran escala.</seg>
       </tuv>
     </tu>
     <tu>
