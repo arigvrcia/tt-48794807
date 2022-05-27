@@ -967,6 +967,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During the 1950s and 1960s, the concentration of heavy industrial facilities in densely populated areas caused environmental pollution on an unprecedented scale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183502Z" creationid="Usuario" creationdate="20220527T183502Z">
+        <seg>Durante las décadas de 1950 y 1960, la concentración de instalaciones industriales pesadas en zonas densamente pobladas provocó una contaminación ambiental a una escala sin precedentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the 1960s and 1970s, citizen movements that confronted the government became common, particularly in response to environmental issues.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
@@ -2097,6 +2105,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quality of life issues, including population density, environmental pollution, and the quality of the housing stock, continue to be problems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183516Z" creationid="Usuario" creationdate="20220527T183516Z">
+        <seg>Las cuestiones de calidad de vida, como la densidad de población, la contaminación ambiental y la calidad del parque de viviendas, siguen siendo un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Religion</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T194950Z" creationid="400" creationdate="20220525T194950Z">
@@ -2123,8 +2139,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>Roughly a quarter of the population lives in the greater Tōkyō region, and less than 10 percent of the people live in rural areas.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183446Z" creationid="Usuario" creationdate="20220527T183446Z">
-        <seg>Aproximadamente una cuarta parte de la población vive en la gran región de Tōkyō, y menos del 10% vive en zonas rurales.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183625Z" creationid="Usuario" creationdate="20220527T183446Z">
+        <seg>Aproximadamente una cuarta parte de la población vive en la región del Gran Tōkyō, y menos del 10% vive en zonas rurales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2574,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T194945Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Las corrientes que convergen en alta mar crean caladeros fértiles y variados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The earliest forms of architecture are reflected in the austere simplicity of some Shintō shrines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183529Z" creationid="Usuario" creationdate="20220527T183529Z">
+        <seg>Las primeras formas de arquitectura se reflejan en la austera sencillez de algunos santuarios Shintō.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3086,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220520T075306Z" creationid="OmegaT Aligner" creationdate="20220520T075306Z">
         <seg>Este poderío militar fue posible gracias a la industrialización que tuvo lugar a partir de la década de 1870.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This style is thought to reflect prehistoric influences from Oceania and Austronesia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183706Z" creationid="Usuario" creationdate="20220527T183706Z">
+        <seg>Se cree que este estilo refleja influencias prehistóricas de Oceanía y Austronesia.</seg>
       </tuv>
     </tu>
     <tu>
