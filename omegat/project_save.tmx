@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s0&gt; –552 &lt;s1&gt; C.E.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205648Z" creationid="ariadnagarcia" creationdate="20220527T205648Z">
+        <seg>&lt;/s0&gt; -552 &lt;s1&gt; e. c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s1&gt; ), small chieftainships coalesced into a rudimentary state-level society.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T205059Z" creationid="ariadnagarcia" creationdate="20220502T205059Z">
@@ -288,8 +296,8 @@
       <tuv lang="en">
         <seg>&lt;/s5&gt; ) extensive cultural contact with and migration from the Asian mainland occurred, and a society arose that was based on irrigated rice cultivation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210829Z" creationid="ariadnagarcia" creationdate="20220502T203759Z">
-        <seg>tuvieron lugar un gran contacto cultural con y migración desde el continente asiático, y surgió una sociedad basada en el cultivo de arroz.&lt;/s5&gt;</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205554Z" creationid="ariadnagarcia" creationdate="20220502T203759Z">
+        <seg>&lt;/s5&gt; ) tuvieron lugar un gran contacto cultural con y migración desde el continente asiático, y surgió una sociedad basada en el cultivo de arroz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,6 +1015,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contemporary apartments and condominiums are even less likely than single-family dwellings to have Japanese-style rooms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205906Z" creationid="ariadnagarcia" creationdate="20220527T205906Z">
+        <seg>Los apartamentos y condominios contemporáneos son aún menos propensos que las viviendas unifamiliares a tener habitaciones de estilo japonés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contemporary cultural attitudes toward and uses of space rely on clear distinctions between public and private spaces defined along the dimensions of sight, sound, touch, and smell.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184247Z" creationid="Usuario" creationdate="20220527T184247Z">
@@ -1161,8 +1177,8 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       <tuv lang="en">
         <seg>During the Yamato period (300 &lt;s0&gt; C.E.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210915Z" creationid="ariadnagarcia" creationdate="20220502T204206Z">
-        <seg>Durante el periódo Yamato (300 e. c.-552 e. c.)&lt;s0&gt;</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205612Z" creationid="ariadnagarcia" creationdate="20220502T204206Z">
+        <seg>Durante el periódo Yamato (300 &lt;s0&gt; e. c.</seg>
       </tuv>
     </tu>
     <tu>
