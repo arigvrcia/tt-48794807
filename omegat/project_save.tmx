@@ -160,8 +160,8 @@
       <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; The Japanese names, &lt;i2&gt; Nihon &lt;/i2&gt; and &lt;i3&gt; Nippon, &lt;/i3&gt; are alternative readings of written characters that mean "origin of the sun" ("Land of the Rising Sun").</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193443Z" creationid="ariadnagarcia" creationdate="20220525T193443Z">
-        <seg>&lt;/i1&gt; &lt;/b0&gt; Los nombres japoneses, &lt;i2&gt;Nihon &lt;/i2&gt; y &lt;i3&gt;Nippon,&lt;/i3&gt; son lecturas alternativas de caracteres escritos que significan "origen del sol" ("Tierra del Sol Naciente").</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T210953Z" creationid="ariadnagarcia" creationdate="20220525T193443Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Los nombres japoneses, &lt;i2&gt;Nihon &lt;/i2&gt; y &lt;i3&gt;Nippon, &lt;/i3&gt; son lecturas alternativas de caracteres escritos que significan "origen del sol" ("Tierra del Sol Naciente").</seg>
       </tuv>
     </tu>
     <tu>
@@ -3877,8 +3877,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>eng</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194230Z" creationid="ainhoa" creationdate="20220525T194230Z">
-        <seg>en</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T210934Z" creationid="ainhoa" creationdate="20220525T194230Z">
+        <seg>en </seg>
       </tuv>
     </tu>
     <tu>
