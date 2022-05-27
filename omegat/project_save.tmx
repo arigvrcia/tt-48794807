@@ -1706,8 +1706,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>In the cities, bourgeois culture flourished: &lt;i0&gt; kabuki &lt;/i0&gt; drama, &lt;i1&gt; bunraku &lt;/i1&gt; puppet theater, &lt;i2&gt; sumō &lt;/i2&gt; wrestling, &lt;i3&gt; ukiyo-e &lt;/i3&gt; woodblock prints, and geisha entertainers</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220513T224600Z" creationid="ariadnagarcia" creationdate="20220513T224600Z">
-        <seg>En las ciudades floreció la cultura burguesa: el teatro kabuki, el teatro de marionetas bunraku, la lucha libre sumō, los grabados en madera ukiyo-e y las animadoras geishas fueron creaciones de la cultura urbana.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T210758Z" creationid="ariadnagarcia" creationdate="20220513T224600Z">
+        <seg>En las ciudades floreció la cultura burguesa: el teatro &lt;i0&gt;kabuki&lt;/i0&gt;, el teatro de marionetas &lt;i1&gt;bunraku&lt;/i1&gt;, la lucha libre &lt;i2&gt;sumō&lt;/i2&gt;, los grabados en madera &lt;i3&gt;ukiyo-e&lt;/i3&gt; y las animadoras geishas fueron creaciones de la cultura urbana.</seg>
       </tuv>
     </tu>
     <tu>
