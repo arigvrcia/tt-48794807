@@ -775,6 +775,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cities have a long history, beginning with the first imperial capitals, such as Nara and Kyōto.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181325Z" creationid="Usuario" creationdate="20220527T181325Z">
+        <seg>Las ciudades tienen una larga historia, empezando por las primeras capitales imperiales, como Nara y Kyōto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cities, towns, and villages have elected chief executives and assemblies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
@@ -1548,6 +1556,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220515T111841Z" creationid="ainhoa" creationdate="20220515T111841Z">
         <seg>Japón construyó rápidamente un ejército al estilo occidental y una armada e intentó ampliar su influencia en Asia Oriental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japan today is a highly urbanized society.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181302Z" creationid="Usuario" creationdate="20220527T181302Z">
+        <seg>Hoy en día Japón es una sociedad altamente urbanizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2970,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Those cities were patterned after the Chinese T'ang dynasty capital of Ch'ang-an and reflected the architectural principles of the Chinese imperial court, with walls and gates enclosing a checkerboard grid of streets organized around the institutions of imperial power and centered on an imperial compound.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181343Z" creationid="Usuario" creationdate="20220527T181343Z">
+        <seg>Estas ciudades seguían el modelo de la capital china de la dinastía T'ang-an y reflejaban los principios arquitectónicos de la corte imperial china, con murallas y puertas que encerraban un entramado de calles en forma de tablero de ajedrez organizado en torno a las instituciones del poder imperial y centrado en un recinto imperial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Those orthographies made it possible to write Chinese phonetically and to write spoken Japanese terms that had no equivalent Chinese characters.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T213236Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -3135,6 +3159,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220505T162758Z" creationid="400" creationdate="20220505T162758Z">
         <seg>El poder económico urbano aumentó sobre los sectores agrarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Urbanism, Architecture, and the Use of Space</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T181233Z" creationid="Usuario" creationdate="20220527T181233Z">
+        <seg>Urbanismo, arquitectura y uso del espacio</seg>
       </tuv>
     </tu>
     <tu>
