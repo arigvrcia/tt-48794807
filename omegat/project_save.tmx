@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; The cornerstone of the economy is high-quality, high-technology manufacturing, with a focus on exports.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185603Z" creationid="Usuario" creationdate="20220527T185536Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; El pilar de la economía es la fabricación de gran calidad y alta tecnología, centrada en la exportación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; The kinship system before World War II was based on upper-class family patterns established during the late Tokugawa period.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T202355Z" creationid="ainhoa" creationdate="20220525T202355Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T210829Z" creationid="ariadnagarcia" creationdate="20220502T203759Z">
         <seg>tuvieron lugar un gran contacto cultural con y migración desde el continente asiático, y surgió una sociedad basada en el cultivo de arroz.&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt; &lt;i1&gt; Basic Economy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185438Z" creationid="Usuario" creationdate="20220527T185438Z">
+        <seg>&lt;b0&gt; &lt;i1&gt; Economía básica.</seg>
       </tuv>
     </tu>
     <tu>
