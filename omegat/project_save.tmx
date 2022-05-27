@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the Meiji restoration, many castle towns declined as migration to new centers of industrial and economic opportunity led to a reconfiguration of the urban network.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182625Z" creationid="Usuario" creationdate="20220527T182625Z">
+        <seg>Después de la restauración Meiji, muchas ciudades castillo decayeron a medida que la migración hacia nuevos centros de oportunidades industriales y económicas condujo a una reconfiguración de la red urbana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the late 1950s, this "developmental state" created the social, economic, and political contexts in which ordinary people could experience middle-class urban lifestyles.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T075236Z" creationid="400" creationdate="20220525T075236Z">
@@ -2950,6 +2958,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220520T084339Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
         <seg>Eran ferozmente nacionalistas e intentaron equiparar a la sociedad japonesa con las potencias europeas y norteamericanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They were spatially segregated along class lines, and their spatial layout and social organization put priority on the defensive needs and domestic convenience of the lord and his retinue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182431Z" creationid="Usuario" creationdate="20220527T182431Z">
+        <seg>Estaban segregados espacialmente por clases, y su disposición espacial y organización social daban prioridad a las necesidades defensivas y a la comodidad doméstica del señor y su séquito.</seg>
       </tuv>
     </tu>
     <tu>
