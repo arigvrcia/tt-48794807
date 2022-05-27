@@ -2073,6 +2073,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rows of apartment houses in Osaka.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182005Z" creationid="Usuario" creationdate="20220527T182005Z">
+        <seg>Hileras de apartamentos en Osaka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Samurai ranks were abolished in 1872.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220515T111051Z" creationid="ainhoa" creationdate="20220515T111051Z">
