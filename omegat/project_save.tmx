@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Almost all the cities were heavily damaged by bombing during World War II.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T183052Z" creationid="Usuario" creationdate="20220527T183052Z">
+        <seg>Casi todas las ciudades sufrieron graves daños por los bombardeos durante la Segunda Guerra Mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Almost every aspect of Japanese life—agricultural technology, written language, philosophy, architecture, poetry, medicine, and law—was transformed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T205915Z" creationid="ariadnagarcia" creationdate="20220502T205915Z">
