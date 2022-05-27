@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Approximately 65 percent of Japan's population lives in cities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182202Z" creationid="Usuario" creationdate="20220527T182202Z">
+        <seg>Aproximadamente el 65% de la población japonesa vive en ciudades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At better schools, these exams can be extremely competitive.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
@@ -3287,6 +3295,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T201601Z" creationid="ainhoa" creationdate="20220525T201601Z">
         <seg>las nuevas leyes de empleo, la igualdad en la educación y el empleo, la promoción profesional sigue siendo un ideal, y los "techos de cristal", las diferencias salariales entre hombres y mujeres y las diferentes vías de educación y empleo siguen siendo comunes..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>remained the key regional administrative and economic centers throughout the Tokugawa period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182401Z" creationid="Usuario" creationdate="20220527T182401Z">
+        <seg>siguieron siendo los centros administrativos y económicos regionales claves durante todo el periodo Tokugawa.</seg>
       </tuv>
     </tu>
     <tu>
