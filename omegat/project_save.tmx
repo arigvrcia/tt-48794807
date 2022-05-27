@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -983,6 +983,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Countries and Their Cultures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205143Z" creationid="ariadnagarcia" creationdate="20220527T205143Z">
+        <seg>Países y sus culturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Culture Name</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193259Z" creationid="ariadnagarcia" creationdate="20220525T193259Z">
@@ -995,6 +1003,22 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T193238Z" creationid="ariadnagarcia" creationdate="20220525T193238Z">
         <seg>Cultura de Japón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Culture of Japan - history, people, traditions, women, beliefs, food, family, social, marriage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205045Z" creationid="ariadnagarcia" creationdate="20220527T205045Z">
+        <seg>Cultura de Japón - historia, pueblo, tradiciones, mujeres, creencias, gastronomía, familia, sociedad, matrimonio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Culture of Japan - history, people, traditions, women, beliefs, food, family, social, marriage  Ja-Ma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205126Z" creationid="ariadnagarcia" creationdate="20220527T205126Z">
+        <seg>Cultura de Japón - historia, pueblo, tradiciones, mujeres, creencias, gastronomía, familia, sociedad, matrimonio Ja-Ma</seg>
       </tuv>
     </tu>
     <tu>
