@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A farmhouse in Hokkaido.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191155Z" creationid="Usuario" creationdate="20220527T191155Z">
+        <seg>Una granja en Hokkaido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A male household head represented the family to the outside world and controlled its public affairs; within the home, his wife might exercise great control in managing the day-to-day life of the family.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
@@ -2217,6 +2225,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only a small portion of Japan's work force is employed in agriculture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191246Z" creationid="Usuario" creationdate="20220527T191213Z">
+        <seg>Solo una pequeña parte de la población activa de Japón trabaja en la agricultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only about 15 percent of Japan is level enough for agriculture.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220513T223843Z" creationid="OmegaT Aligner" creationdate="20220513T223843Z">
@@ -2261,6 +2277,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Otras minorías lingüísticas son los coreano-japoneses y los ainu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other marginalized urban social categories include a large floating population of day laborers and migrant laborers, who have been joined by an increasing number of illegal and quasi-legal immigrants from China, Southeast Asia, Latin America, and the Middle East.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191336Z" creationid="Usuario" creationdate="20220527T191336Z">
+        <seg>Otras categorías sociales urbanas marginadas incluyen una gran población flotante de jornaleros y trabajadores migrantes, a los que se ha unido un número creciente de inmigrantes ilegales y cuasi legales procedentes de China, el sudeste asiático, América Latina y Oriente Medio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3202,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The status is hereditary, but the people so stigmatized are indistinguishable from other residents in terms of language, ethnic background, or physical appearance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191323Z" creationid="Usuario" creationdate="20220527T191323Z">
+        <seg>El estatus es hereditario, pero las personas así estigmatizadas no se distinguen de otros residentes en términos de lengua, origen étnico o apariencia física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The system of extraterritoriality, however, was considered degrading, and the government tried to transform social life and culture in ways that would command the respect of the Western powers.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220515T111558Z" creationid="ainhoa" creationdate="20220515T111558Z">
@@ -3390,6 +3422,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T182431Z" creationid="Usuario" creationdate="20220527T182431Z">
         <seg>Estaban segregados espacialmente por clases, y su disposición espacial y organización social daban prioridad a las necesidades defensivas y a la comodidad doméstica del señor y su séquito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This "untouchable" status results</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191137Z" creationid="Usuario" creationdate="20220527T191137Z">
+        <seg>Esta condición de "intocable" resulta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,6 +3807,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220525T194230Z" creationid="ainhoa" creationdate="20220525T194230Z">
         <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>from stigmas associated with Shinto and Buddhist beliefs about purity and pollution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T191308Z" creationid="Usuario" creationdate="20220527T191308Z">
+        <seg>de los estigmas asociados a las creencias sintoístas y budistas sobre la pureza y la contaminación.</seg>
       </tuv>
     </tu>
     <tu>
