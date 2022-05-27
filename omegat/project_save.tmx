@@ -1079,6 +1079,14 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Eating habits have been reshaped by changes in domestic life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185030Z" creationid="Usuario" creationdate="20220527T185030Z">
+        <seg>Los cambios en la vida doméstica han modificado los hábitos alimentarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Economic growth was politically unassailable, but the costs in terms of pollution, declines in the agricultural sector, and massive urban growth without adequate infrastructure were enormous.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220525T075629Z" creationid="400" creationdate="20220525T075629Z">
@@ -1151,10 +1159,26 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Families eat fewer meals together, and sophisticated kitchen appliances have transformed domestic cooking.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185044Z" creationid="Usuario" creationdate="20220527T185044Z">
+        <seg>Las familias comen menos juntas y los sofisticados electrodomésticos han transformado la cocina doméstica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Food and Economy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T184456Z" creationid="Usuario" creationdate="20220527T184456Z">
         <seg>Alimentación y economía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Food manufactures have created vast numbers of prepared dishes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185405Z" creationid="Usuario" creationdate="20220527T185405Z">
+        <seg>Los fabricantes de alimentos han creado un gran número de platos preparados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2341,14 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
         <seg>Simultáneamente, el sistema político se ha visto sacudido por la ruptura del Partido Liberal Democrático, que gobernó durante mucho tiempo, en 1993, y por los escándalos de corrupción generalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since World War II, consumption of dairy products, beef, bread, and other Western foods has increased dramatically.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185019Z" creationid="Usuario" creationdate="20220527T185019Z">
+        <seg>Desde la Segunda Guerra Mundial, el consumo de productos lácteos, carne de vacuno, pan y otros alimentos occidentales ha aumentado drásticamente.</seg>
       </tuv>
     </tu>
     <tu>
