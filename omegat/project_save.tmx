@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2668,8 +2668,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>Society was thoroughly transformed as the leaders created a strong centralized state centered on the imperial line, built a modern military, avoided European colonization, began imperialist expansion into other parts of East Asia, and launched industrialization and economic development.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220520T090327Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
-        <seg>La sociedad se transformó por completo cuando los líderes crearon un fuerte estado centralizado centrado en la línea imperial, construyeron un ejército moderno, evitaron la colonización europea, comenzaron la expansión imperialista en otras partes de Asia Oriental y lanzaron la industrialización y el desarrollo económico.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220528T141632Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
+        <seg>La sociedad se transformó por completo cuando los líderes crearon un fuerte estado centralizado centrado en la línea imperial, construyeron un ejército moderno, evitaron la colonización europea, comenzaron la expansión imperialista en otras partes de Asia Oriental, la industrialización y el desarrollo económico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,8 +3725,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>Under the nominal leadership of Emperor Meiji, the imperial government was run by the young samurai who had defeated the Tokugawa dynasty.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220520T083335Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
-        <seg>Bajo el liderazgo nominal del emperador Meiji, el gobierno imperial fue dirigido por los jóvenes samuráis que habían derrotado a la dinastía Tokugawa.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220528T141528Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
+        <seg>Bajo el liderazgo nominal del emperador Meiji, el gobierno imperial fue dirigido por los jóvenes samuráis que habían derrocado la dinastía Tokugawa.</seg>
       </tuv>
     </tu>
     <tu>
