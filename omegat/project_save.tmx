@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; &lt;i2&gt; Keiretsu &lt;/i2&gt; —groups of companies that are closely linked through overlapping stock ownership, preferential supply relationships, coordination of economic activities, and extensive subcontracting relationships—play a central role in the economy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T190216Z" creationid="Usuario" creationdate="20220527T190109Z">
-        <seg>&lt;/i1&gt; &lt;/b0&gt; &lt;i2&gt; Los grupos de empresas Keiretsu, &lt;/i2&gt; estrechamente vinculados a través de la superposición de la propiedad de las acciones, las relaciones de suministro preferente, la coordinación de las actividades económicas y las amplias relaciones de subcontratación, desempeñan un papel central en la economía.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220528T150936Z" creationid="Usuario" creationdate="20220527T190109Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Los grupos de empresas &lt;i2&gt;Keiretsu&lt;/i2&gt;,estrechamente vinculados a través de la superposición de la propiedad de las acciones, las relaciones de suministro preferente, la coordinación de las actividades económicas y las amplias relaciones de subcontratación, desempeñan un papel central en la economía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,8 +1586,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>In 1999, less than 5 percent of the labor force was employed in agriculture, compared to 21 percent in manufacturing, 23 percent in the wholesale and retail sectors, and 26 percent in service industries.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Usuario" changedate="20220527T185840Z" creationid="Usuario" creationdate="20220527T185840Z">
-        <seg>En 1999, menos del 5% de la población activa estaba empleada en la agricultura, frente al 21% en la industria manufacturera, el 23% en el sector mayorista y minorista y el 26% en el sector servicios.</seg>
+      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220528T150838Z" creationid="Usuario" creationdate="20220527T185840Z">
+        <seg>En 1999, menos del 5% de la población activa se dedicaba a la agricultura, frente al 21% de la industria manufacturera, el 23% del sector mayorista y minorista y el 26% del sector servicios.</seg>
       </tuv>
     </tu>
     <tu>
