@@ -584,8 +584,8 @@
       <tuv lang="en">
         <seg>According to the 1995 census, 81 million people (65 percent) live in urban areas; that constitutes only 3 percent of the land area.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Según el censo de 1995, 81 millones de personas (el 65%) viven en zonas urbanas, que constituyen sólo el 3% de la superficie terrestre.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220528T115822Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Según el censo de 1995, 81 millones de personas (el 65%) viven en zonas urbanas, que constituyen solo el 3% de la superficie terrestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="en">
         <seg>Because of the steep mountains, there are almost no navigable inland waterways.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195404Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Debido a las escarpadas montañas, casi no hay vías acuática interiores navegables.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220528T115745Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Debido a las escarpadas montañas, casi no hay vías acuáticas interiores navegables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1209,8 +1209,8 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       <tuv lang="en">
         <seg>During the last 150 years of industrialization and economic development, the population has grown from around thirty million to its present size.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220525T195513Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Durante los últimos 150 años de industrialización y desarrollo económico, la población ha pasado de unos treinta millones al número actual.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220528T115937Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Durante los últimos 150 años de industrialización y desarrollo económico, la población ha aumentado desde unos treinta millones al número actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2315,8 +2315,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>Only about 15 percent of the land is level enough for agriculture, and so the population density in coastal plains and valleys is extremely high.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T093818Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
-        <seg>Sólo un 15% del terreno es lo suficientemente llano para la agricultura, por lo que la densidad de población en las llanuras y valles costeros es extremadamente alta.</seg>
+      <tuv lang="es-ES" changeid="Usuario" changedate="20220528T115648Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
+        <seg>Solo un 15% del terreno es lo suficientemente llano para la agricultura, por lo que la densidad de población en las llanuras y valles costeros es extremadamente alta.</seg>
       </tuv>
     </tu>
     <tu>
