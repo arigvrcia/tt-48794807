@@ -3921,6 +3921,14 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
         <seg>Los científicos desarrollaron la bomba atómica en secreto y se lanzó sobre Hiroshima y Nagasaki después de que los aliados pidieran la rendición incondicional de Japón.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>were all creations of the urban culture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220528T153423Z" creationid="ainhoa" creationdate="20220528T153347Z">
+        <seg>eran todas creaciones de la cultura urbana.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
