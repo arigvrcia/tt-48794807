@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>&lt;/i1&gt; &lt;/b0&gt; Shintō is the contemporary term for a system of gods and beliefs about the relationship between people, the natural environment, and the state.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="400" changedate="20220525T195016Z" creationid="400" creationdate="20220525T195016Z">
-        <seg>&lt;/i1&gt; &lt;/b0&gt; Shintō es el término contemporáneo que designa un sistema de dioses y creencias sobre la relación entre las personas, el entorno natural y el Estado.</seg>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220528T155303Z" creationid="400" creationdate="20220525T195016Z">
+        <seg>&lt;/i1&gt; &lt;/b0&gt; Shinto es el término contemporáneo que designa un sistema de dioses y creencias sobre la relación entre las personas, el entorno natural y el Estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2539,8 +2539,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>Shintō teaches that Japan is uniquely the land of the gods.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T193853Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
-        <seg>El Shintō enseña que Japón es exclusivamente la tierra de los dioses.</seg>
+      <tuv lang="es-ES" changeid="ainhoa" changedate="20220528T155307Z" creationid="OmegaT Aligner" creationdate="20220525T193853Z">
+        <seg>El Shinto enseña que Japón es exclusivamente la tierra de los dioses.</seg>
       </tuv>
     </tu>
     <tu>
