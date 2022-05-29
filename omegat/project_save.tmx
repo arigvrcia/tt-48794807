@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>../images/ctc_02_img0564.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103246Z" creationid="400" creationdate="20220529T103246Z">
+        <seg>../imágenes/ctc_02_img0564.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>../images/ctc_02_img0565.jpg</seg>
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220529T093732Z" creationid="400" creationdate="20220529T093732Z">
@@ -50,6 +58,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="400" changedate="20220529T095443Z" creationid="400" creationdate="20220529T095443Z">
         <seg>../imágenes/ctc_02_img0567.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>../images/ctc_02_img0568.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103254Z" creationid="400" creationdate="20220529T103254Z">
+        <seg>../imágenes/ctc_02_img0568.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/bs/i/countries-cultures-sm.png</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103445Z" creationid="400" creationdate="20220529T103445Z">
+        <seg>/bs/i/países-culturas-sm.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/bs/i/countries-cultures.png</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103436Z" creationid="400" creationdate="20220529T103436Z">
+        <seg>/bs/i/países-culturas.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,14 +1414,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Foods, weather conditions, types of activity, human relations, and organs of the body are regarded as possessing varying qualities of &lt;i1&gt; in &lt;/i1&gt; and &lt;i2&gt; yō &lt;/i2&gt; , and if these qualities are out of balance, the flow of energy within the body is impaired.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220528T155541Z" creationid="ainhoa" creationdate="20220528T155541Z">
-        <seg>Foods, weather conditions, types of activity, human relations, and organs of the body are regarded as possessing varying qualities of &lt;i1&gt; in &lt;/i1&gt; and &lt;i2&gt; yō &lt;/i2&gt;, and if these qualities are out of balance, the flow of energy within the body is impaired.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>For example, local identity and pride are commonly expressed through "famous local products." Almost every village, town, and city is famous for something, often a locally distinctive folk craft, a local culinary specialty, or a traditional song or performing art.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220528T122502Z" creationid="OmegaT Aligner" creationdate="20220525T093818Z">
@@ -1426,6 +1450,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220520T083916Z" creationid="OmegaT Aligner" creationdate="20220520T083335Z">
         <seg>Se contrató a expertos extranjeros y se envió a jóvenes japoneses a estudiar a universidades occidentales. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forum</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103320Z" creationid="400" creationdate="20220529T103320Z">
+        <seg>Foro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,6 +2587,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="ainhoa" changedate="20220515T111051Z" creationid="ainhoa" creationdate="20220515T111051Z">
         <seg>Los rangos de los samuráis fueron abolidos en 1872.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103348Z" creationid="400" creationdate="20220529T103348Z">
+        <seg>Buscar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3699,6 +3739,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Usuario" changedate="20220527T173459Z" creationid="Usuario" creationdate="20220527T173459Z">
         <seg>En la actualidad, las variaciones en la mayoría de los aspectos de la vida cotidiana reflejan más las diferencias urbanas, suburbanas y rurales que el regionalismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle navigation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T103415Z" creationid="400" creationdate="20220529T103415Z">
+        <seg>Alternar navegación</seg>
       </tuv>
     </tu>
     <tu>
