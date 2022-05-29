@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>../images/ctc_02_img0563.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093204Z" creationid="400" creationdate="20220529T093204Z">
+        <seg>../imégenes/ctc_02_img0563.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300 &lt;s4&gt; B.C.E.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220527T205440Z" creationid="ariadnagarcia" creationdate="20220527T205440Z">
@@ -896,8 +904,8 @@
       <tuv lang="en">
         <seg>By the mid-1950s, the initial reconstruction of society and economy had largely been accomplished, and the government had built a conservative consensus that the national priorities were economic growth and social stability, which would be achieved through the close cooperation of business and a government directed by bureaucratic elites.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220520T162051Z" creationid="ainhoa" creationdate="20220520T162051Z">
-        <seg>A mediados de la década de 1950, la reconstrucción inicial de la sociedad y la economía se había llevado a cabo en gran medida, y el gobierno había creado un consenso conservador según el cual las prioridades nacionales eran el crecimiento económico y la estabilidad social, que se lograrían mediante la estrecha cooperación de las empresas y un gobierno dirigido por las élites burocráticas.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093506Z" creationid="ainhoa" creationdate="20220520T162051Z">
+        <seg>A mediados de la década de 1950, la reconstrucción inicial de la sociedad y la economía se había llevado a cabo en gran medida y el gobierno había creado un consenso conservador según el cual las prioridades nacionales eran el crecimiento económico y la estabilidad social, que se lograrían mediante la estrecha cooperación de las empresas y un gobierno dirigido por las élites burocráticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1113,8 +1121,8 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       <tuv lang="en">
         <seg>Disillusionment with the cultural and social frameworks of prewar and wartime life was widespread.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220520T161335Z" creationid="ainhoa" creationdate="20220520T161335Z">
-        <seg>la desilusión con los marcos culturales y sociales de la vida de preguerra y de guerra era generalizada.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093413Z" creationid="ainhoa" creationdate="20220520T161335Z">
+        <seg>La desilusión con los marcos culturales y sociales de la vida de preguerra y de guerra era generalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1393,8 +1401,8 @@ Desde hace mucho tiempo existe un espíritu de apoyo a la educación, la segurid
       <tuv lang="en">
         <seg>From 1945 until 1952, Japan was occupied by Allied troops under the command of U.S.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220520T160922Z" creationid="ainhoa" creationdate="20220520T160922Z">
-        <seg>Desde 1945 hasta 1952, Japón estuvo ocupado por las tropas aliadas bajo el mando de Estados Unidos.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093349Z" creationid="ainhoa" creationdate="20220520T160922Z">
+        <seg>Desde 1945 hasta 1952, Japón estuvo ocupado por las tropas Aliadas bajo el mando de Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2804,8 +2812,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>The Occupation launched social and cultural reforms, including a democratic constitution and political system, universal adult suffrage, the emperor's renunciation of divinity and separation of religion from state control, agricultural land reform, the dismantling of major economic and industrial combines, the expansion of education, language reform, and expanded civil liberties.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ainhoa" changedate="20220520T161658Z" creationid="ainhoa" creationdate="20220520T161658Z">
-        <seg>La Ocupación puso en marcha reformas sociales y culturales, incluyendo una constitución y un sistema político democrático, el sufragio universal de los adultos, la renuncia del emperador a la divinidad y la separación de la religión del control del Estado, la reforma agraria, el desmantelamiento de las principales combinaciones económicas e industriales, la expansión de la educación, la reforma lingüística y la ampliación de las libertades civiles. .</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093439Z" creationid="ainhoa" creationdate="20220520T161658Z">
+        <seg>La Ocupación puso en marcha reformas sociales y culturales, incluyendo una constitución y un sistema político democrático, el sufragio universal de los adultos, la renuncia del emperador a la divinidad y la separación de la religión del control del Estado, la reforma agraria, el desmantelamiento de las principales combinaciones económicas e industriales, la expansión de la educación, la reforma lingüística y la ampliación de las libertades civiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3925,8 +3933,8 @@ Las tradiciones religiosas japonesas no han hecho hincapié en la caridad o la f
       <tuv lang="en">
         <seg>scientists developed the atomic bomb in secrecy, and it was dropped on Hiroshima and Nagasaki after the Allies called for Japan's unconditional surrender.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220528T142954Z" creationid="ainhoa" creationdate="20220520T160705Z">
-        <seg>Los científicos desarrollaron la bomba atómica en secreto y se lanzó sobre Hiroshima y Nagasaki después de que los aliados pidieran la rendición incondicional de Japón.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093318Z" creationid="ainhoa" creationdate="20220520T160705Z">
+        <seg>Los científicos desarrollaron la bomba atómica en secreto y se lanzó sobre Hiroshima y Nagasaki después de que los Aliados pidieran la rendición incondicional de Japón.</seg>
       </tuv>
     </tu>
     <tu>
