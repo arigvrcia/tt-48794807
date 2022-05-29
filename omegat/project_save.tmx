@@ -392,8 +392,8 @@
       <tuv lang="en">
         <seg>&lt;b0&gt; &lt;i1&gt; Emergence of the Nation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="ariadnagarcia" changedate="20220502T204218Z" creationid="ariadnagarcia" creationdate="20220502T203243Z">
-        <seg>Origen de la nación&lt;b0&gt; &lt;i1&gt;</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T100706Z" creationid="ariadnagarcia" creationdate="20220502T203243Z">
+        <seg>Origen de la nación.&lt;b0&gt; &lt;i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3481,8 +3481,8 @@
       <tuv lang="en">
         <seg>These social policies reflected the ideology of neo-Confucianism, which valued social stability and the social morality of ascribed status.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="400" changedate="20220505T161256Z" creationid="400" creationdate="20220505T161256Z">
-        <seg>Estas políticas sociales reflejaban la ideología del neo-Confucianismo, el cual valoraba la estabilidad social y la moral social del estatus atribuido. </seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T101000Z" creationid="400" creationdate="20220505T161256Z">
+        <seg>Estas políticas sociales reflejaban la ideología del neoconfucianismo, el cual valoraba la estabilidad social y la moral social del estatus atribuido. </seg>
       </tuv>
     </tu>
     <tu>
