@@ -608,8 +608,8 @@
       <tuv lang="en">
         <seg>Administratively, the country is divided into forty-seven prefectures that vary in terms of their political structures.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
-        <seg>Administrativamente, el país está dividido en cuarenta y siete prefecturas que varían en cuanto a sus estructuras políticas.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093945Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>De manera administrativa, el país está dividido en cuarenta y siete prefecturas que varían en cuanto a sus estructuras políticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,8 +1594,8 @@ Existe un espíritu de apoyo a la educación, la seguridad pública y la salud p
       <tuv lang="en">
         <seg>In 1947, a new constitution was drafted by advisers to the Allied occupation forces and adopted by the parliament.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20220525T094017Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
-        <seg>En 1947, los asesores de las fuerzas de ocupación aliadas redactaron una nueva constitución que fue aprobada por el parlamento.</seg>
+      <tuv lang="es-ES" changeid="400" changedate="20220529T093830Z" creationid="OmegaT Aligner" creationdate="20220525T094017Z">
+        <seg>En 1947, los asesores de las fuerzas de ocupación Aliadas redactaron una nueva constitución que fue aprobada por el parlamento.</seg>
       </tuv>
     </tu>
     <tu>
